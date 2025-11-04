@@ -1,0 +1,8 @@
+{
+  "total_processed": 20,
+  "successful": 20,
+  "failed": 0,
+  "success_rate": 100.0,
+  "feature_dimensions": 375,
+  "max_frames": 60
+}
