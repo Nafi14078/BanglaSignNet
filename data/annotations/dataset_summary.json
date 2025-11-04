@@ -1,0 +1,19 @@
+{
+  "total_samples": 1922,
+  "total_videos": 1837,
+  "vocabulary_size": 41,
+  "average_sentence_length": 4.366805411030177,
+  "max_sentence_length": 5,
+  "dataset_structure": {
+    "columns_in_excel": [
+      "id",
+      "video_id",
+      "video_path",
+      "sentence",
+      "gloss",
+      "sentence_length",
+      "words"
+    ],
+    "video_files_directory": "Sign_Videos"
+  }
+}
