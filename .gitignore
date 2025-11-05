@@ -95,6 +95,7 @@ data/raw/         # Raw datasets (too large for Git)
 data/processed/   # Processed data (can be regenerated)
 *.csv
 *.h5
+*.pth
 *.hdf5
 *.npy
 *.npz

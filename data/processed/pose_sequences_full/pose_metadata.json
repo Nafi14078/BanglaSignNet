@@ -1,0 +1,4002 @@
+[
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00000.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\23511\\UL_CS_S23511_U19_20231010_1696931429197.mp4",
+    "sentence": "ফল খাও।",
+    "gloss": "ফল খাওয়া।",
+    "original_id": 0,
+    "video_id": 23511
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00001.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27934\\REC_CS_S27934_U19_20231104_1699106283442.mp4",
+    "sentence": "বাবা সকালে চা খান না।",
+    "gloss": "বাবা সকাল চা না।",
+    "original_id": 1,
+    "video_id": 27934
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00002.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27941\\REC_CS_S27941_U19_20231104_1699106395831.mp4",
+    "sentence": "বাবা বিকালে চা খায়নি।",
+    "gloss": "বাবা বিকাল চা নেই।",
+    "original_id": 2,
+    "video_id": 27941
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00003.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27946\\REC_CS_S27946_U19_20231104_1699106499799.mp4",
+    "sentence": "বাবা বিকালে চা খাবে না।",
+    "gloss": "বাবা বিকাল চা না।",
+    "original_id": 3,
+    "video_id": 27946
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00004.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27959\\REC_CS_S27959_U19_20231104_1699106736120.mp4",
+    "sentence": "বাবা সকালে চা খাবে।",
+    "gloss": "বাবা সকাল চা হবে।",
+    "original_id": 4,
+    "video_id": 27959
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00005.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27960\\REC_CS_S27960_U19_20231104_1699106749426.mp4",
+    "sentence": "বাবা দুপুরে চা খাবে।",
+    "gloss": "বাবা দুপুর চা হবে।",
+    "original_id": 5,
+    "video_id": 27960
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00006.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27961\\REC_CS_S27961_U19_20231104_1699106762604.mp4",
+    "sentence": "বাবা বিকালে চা খাবে।",
+    "gloss": "বাবা বিকাল চা হবে।",
+    "original_id": 6,
+    "video_id": 27961
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00007.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27962\\REC_CS_S27962_U19_20231104_1699106775670.mp4",
+    "sentence": "বাবা সন্ধ্যায় চা খাবে।",
+    "gloss": "বাবা সন্ধ্যা চা হবে।",
+    "original_id": 7,
+    "video_id": 27962
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00008.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27963\\REC_CS_S27963_U19_20231104_1699107224239.mp4",
+    "sentence": "বাবা রাতে চা খাবে।",
+    "gloss": "বাবা রাত চা হবে।",
+    "original_id": 8,
+    "video_id": 27963
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00009.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27999\\REC_CS_S27999_U19_20231104_1699108925812.mp4",
+    "sentence": "মা সকালে চা খাবে।",
+    "gloss": "মা সকাল চা হবে।",
+    "original_id": 9,
+    "video_id": 27999
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00010.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28000\\REC_CS_S28000_U19_20231104_1699108943580.mp4",
+    "sentence": "মা দুপুরে চা খাবে।",
+    "gloss": "মা দুপুর চা হবে।",
+    "original_id": 10,
+    "video_id": 28000
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00011.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28001\\REC_CS_S28001_U19_20231104_1699108961073.mp4",
+    "sentence": "মা বিকালে চা খাবে।",
+    "gloss": "মা বিকাল চা হবে।",
+    "original_id": 11,
+    "video_id": 28001
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00012.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28002\\REC_CS_S28002_U19_20231104_1699108983473.mp4",
+    "sentence": "মা সন্ধ্যায় চা খাবে।",
+    "gloss": "মা সন্ধ্যা চা হবে।",
+    "original_id": 12,
+    "video_id": 28002
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00013.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28003\\REC_CS_S28003_U19_20231104_1699109012480.mp4",
+    "sentence": "মা রাতে চা খাবে।",
+    "gloss": "মা রাত চা হবে।",
+    "original_id": 13,
+    "video_id": 28003
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00014.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28021\\REC_CS_S28021_U19_20231104_1699109582871.mp4",
+    "sentence": "দাদা বিকালে চা খায়নি।",
+    "gloss": "দাদা বিকাল চা নেই।",
+    "original_id": 14,
+    "video_id": 28021
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00015.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28039\\REC_CS_S28039_U19_20231104_1699110126921.mp4",
+    "sentence": "দাদা সকালে চা খাবে।",
+    "gloss": "দাদা সকাল চা হবে।",
+    "original_id": 15,
+    "video_id": 28039
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00016.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27978\\REC_CS_S27978_U5_20231021_1697888280406.mp4",
+    "sentence": "দাদা দুপুরে চা খাবে।",
+    "gloss": "দাদা দুপুর চা হবে।",
+    "original_id": 16,
+    "video_id": 28040
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00017.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28041\\REC_CS_S28041_U19_20231104_1699110158817.mp4",
+    "sentence": "দাদা বিকালে চা খাবে।",
+    "gloss": "দাদা বিকাল চা হবে।",
+    "original_id": 17,
+    "video_id": 28041
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00018.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28042\\REC_CS_S28042_U19_20231104_1699110174216.mp4",
+    "sentence": "দাদা সন্ধ্যায় চা খাবে।",
+    "gloss": "দাদা সন্ধ্যা চা হবে।",
+    "original_id": 18,
+    "video_id": 28042
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00019.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28043\\REC_CS_S28043_U19_20231104_1699110188144.mp4",
+    "sentence": "দাদা রাতে চা খাবে।",
+    "gloss": "দাদা রাত চা হবে।",
+    "original_id": 19,
+    "video_id": 28043
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00020.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28079\\REC_CS_S28079_U19_20231104_1699110851555.mp4",
+    "sentence": "দাদী সকালে চা খাবে।",
+    "gloss": "দাদি সকাল চা হবে।",
+    "original_id": 20,
+    "video_id": 28079
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00021.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28080\\REC_CS_S28080_U19_20231104_1699110865456.mp4",
+    "sentence": "দাদী দুপুরে চা খাবে।",
+    "gloss": "দাদি দুপুর চা হবে।",
+    "original_id": 21,
+    "video_id": 28080
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00022.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28081\\REC_CS_S28081_U19_20231104_1699110880630.mp4",
+    "sentence": "দাদী বিকালে চা খাবে।",
+    "gloss": "দাদি বিকাল চা হবে।",
+    "original_id": 22,
+    "video_id": 28081
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00023.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28082\\REC_CS_S28082_U19_20231104_1699110894369.mp4",
+    "sentence": "দাদী সন্ধ্যায় চা খাবে।",
+    "gloss": "দাদি সন্ধ্যা চা হবে।",
+    "original_id": 23,
+    "video_id": 28082
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00024.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28083\\REC_CS_S28083_U19_20231104_1699110923419.mp4",
+    "sentence": "দাদী রাতে চা খাবে।",
+    "gloss": "দাদি রাত চা হবে।",
+    "original_id": 24,
+    "video_id": 28083
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00025.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28116\\REC_CS_S28116_U19_20231104_1699112068558.mp4",
+    "sentence": "চাচা বিকালে চা খেতেন না।",
+    "gloss": "চাচা আগে বিকাল চা না।",
+    "original_id": 25,
+    "video_id": 28116
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00026.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28119\\REC_CS_S28119_U19_20231104_1699112128910.mp4",
+    "sentence": "চাচা সকালে চা খাবে।",
+    "gloss": "চাচা সকাল চা হবে।",
+    "original_id": 26,
+    "video_id": 28119
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00027.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28120\\REC_CS_S28120_U19_20231104_1699112141960.mp4",
+    "sentence": "চাচা দুপুরে চা খাবে।",
+    "gloss": "চাচা দুপুর চা হবে।",
+    "original_id": 27,
+    "video_id": 28120
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00028.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28121\\REC_CS_S28121_U19_20231104_1699112155505.mp4",
+    "sentence": "চাচা বিকালে চা খাবে।",
+    "gloss": "চাচা বিকাল চা হবে।",
+    "original_id": 28,
+    "video_id": 28121
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00029.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28122\\REC_CS_S28122_U19_20231104_1699112168198.mp4",
+    "sentence": "চাচা সন্ধ্যায় চা খাবে।",
+    "gloss": "চাচা সন্ধ্যা চা হবে।",
+    "original_id": 29,
+    "video_id": 28122
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00030.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28123\\REC_CS_S28123_U19_20231104_1699112181273.mp4",
+    "sentence": "চাচা রাতে চা খাবে।",
+    "gloss": "চাচা রাত চা হবে।",
+    "original_id": 30,
+    "video_id": 28123
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00031.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28131\\REC_CS_S28131_U19_20231104_1699112378413.mp4",
+    "sentence": "চাচা বিকালে চা খেয়েছিল।",
+    "gloss": "চাচা বিকাল চা ছিল।",
+    "original_id": 31,
+    "video_id": 28131
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00032.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28141\\REC_CS_S28141_U19_20231104_1699112579833.mp4",
+    "sentence": "চাচী বিকালে চা খায়নি।",
+    "gloss": "চাচা বউ বিকাল চা নেই।",
+    "original_id": 32,
+    "video_id": 28141
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00033.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28159\\REC_CS_S28159_U19_20231105_1699154409806.mp4",
+    "sentence": "চাচী সকালে চা খাবে।",
+    "gloss": "চাচা বউ সকাল চা হবে।",
+    "original_id": 33,
+    "video_id": 28159
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00034.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28161\\REC_CS_S28161_U19_20231105_1699154467346.mp4",
+    "sentence": "চাচী বিকালে চা খাবে।",
+    "gloss": "চাচা বউ বিকাল চা হবে।",
+    "original_id": 34,
+    "video_id": 28161
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00035.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28162\\REC_CS_S28162_U19_20231105_1699154479629.mp4",
+    "sentence": "চাচী সন্ধ্যায় চা খাবে।",
+    "gloss": "চাচা বউ সন্ধ্যা চা হবে।",
+    "original_id": 35,
+    "video_id": 28162
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00036.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28163\\REC_CS_S28163_U19_20231105_1699154725315.mp4",
+    "sentence": "চাচী রাতে চা খাবে।",
+    "gloss": "চাচা বউ রাত চা হবে।",
+    "original_id": 36,
+    "video_id": 28163
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00037.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28164\\REC_CS_S28164_U19_20231105_1699154741444.mp4",
+    "sentence": "চাচী সকালে চা খেয়েছে।",
+    "gloss": "চাচা বউ সকাল চা হয়েছে।",
+    "original_id": 37,
+    "video_id": 28164
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00038.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28165\\REC_CS_S28165_U19_20231105_1699154756402.mp4",
+    "sentence": "চাচী দুপুরে চা খেয়েছে।",
+    "gloss": "চাচা বউ দুপুর চা হয়েছে।",
+    "original_id": 38,
+    "video_id": 28165
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00039.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28166\\REC_CS_S28166_U19_20231105_1699154768674.mp4",
+    "sentence": "চাচী বিকালে চা খেয়েছে।",
+    "gloss": "চাচা বউ বিকাল চা হয়েছে।",
+    "original_id": 39,
+    "video_id": 28166
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00040.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28171\\REC_CS_S28171_U19_20231105_1699155168618.mp4",
+    "sentence": "চাচী বিকালে চা খেয়েছিল।",
+    "gloss": "চাচা বউ বিকাল চা ছিল।",
+    "original_id": 40,
+    "video_id": 28171
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00041.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28199\\REC_CS_S28199_U19_20231105_1699157787151.mp4",
+    "sentence": "খালা সকালে চা খাবে।",
+    "gloss": "খালা সকাল চা হবে।",
+    "original_id": 41,
+    "video_id": 28199
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00042.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28200\\REC_CS_S28200_U19_20231105_1699157799427.mp4",
+    "sentence": "খালা দুপুরে চা খাবে।",
+    "gloss": "খালা দুপুর চা হবে।",
+    "original_id": 42,
+    "video_id": 28200
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00043.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28201\\REC_CS_S28201_U19_20231105_1699157810314.mp4",
+    "sentence": "খালা বিকালে চা খাবে।",
+    "gloss": "খালা বিকাল চা হবে।",
+    "original_id": 43,
+    "video_id": 28201
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00044.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28203\\REC_CS_S28203_U19_20231105_1699157836582.mp4",
+    "sentence": "খালা রাতে চা খাবে।",
+    "gloss": "খালা রাত চা হবে।",
+    "original_id": 44,
+    "video_id": 28203
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00045.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28204\\REC_CS_S28204_U19_20231105_1699160936769.mp4",
+    "sentence": "খালা সকালে চা খেয়েছে।",
+    "gloss": "খালা সকাল চা হয়েছে।",
+    "original_id": 45,
+    "video_id": 28204
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00046.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28239\\REC_CS_S28239_U19_20231105_1699162715156.mp4",
+    "sentence": "খালু সকালে চা খাবে।",
+    "gloss": "খালা জামাই সকাল চা হবে।",
+    "original_id": 46,
+    "video_id": 28239
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00047.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28240\\REC_CS_S28240_U19_20231105_1699162729986.mp4",
+    "sentence": "খালু দুপুরে চা খাবে।",
+    "gloss": "খালা জামাই দুপুর চা হবে।",
+    "original_id": 47,
+    "video_id": 28240
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00048.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28241\\REC_CS_S28241_U19_20231105_1699162742496.mp4",
+    "sentence": "খালু বিকালে চা খাবে।",
+    "gloss": "খালা জামাই বিকাল চা হবে।",
+    "original_id": 48,
+    "video_id": 28241
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00049.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28242\\REC_CS_S28242_U19_20231105_1699162759528.mp4",
+    "sentence": "খালু সন্ধ্যায় চা খাবে।",
+    "gloss": "খালা জামাই সন্ধ্যা চা হবে।",
+    "original_id": 49,
+    "video_id": 28242
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00050.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28243\\REC_CS_S28243_U19_20231105_1699162771589.mp4",
+    "sentence": "খালু রাতে চা খাবে।",
+    "gloss": "খালা জামাই রাত চা হবে।",
+    "original_id": 50,
+    "video_id": 28243
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00051.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28248\\REC_CS_S28248_U19_20231105_1699162924651.mp4",
+    "sentence": "খালু রাতে চা খেয়েছে।",
+    "gloss": "খালা জামাই রাত চা হয়েছে।",
+    "original_id": 51,
+    "video_id": 28248
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00052.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28251\\REC_CS_S28251_U19_20231105_1699162972979.mp4",
+    "sentence": "খালু বিকালে চা খেয়েছিল।",
+    "gloss": "খালা জামাই বিকাল চা ছিল।",
+    "original_id": 52,
+    "video_id": 28251
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00053.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28269\\REC_CS_S28269_U19_20231105_1699165957799.mp4",
+    "sentence": "বাবা সকালে কফি খেতেন।",
+    "gloss": "বাবা সকাল কফি ছিল।",
+    "original_id": 53,
+    "video_id": 28269
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00054.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28270\\REC_CS_S28270_U19_20231105_1699165967890.mp4",
+    "sentence": "বাবা দুপুরে কফি খেতেন।",
+    "gloss": "বাবা দুপুর কফি ছিল।",
+    "original_id": 54,
+    "video_id": 28270
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00055.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28272\\REC_CS_S28272_U19_20231105_1699165988741.mp4",
+    "sentence": "বাবা সন্ধ্যায় কফি খেতেন।",
+    "gloss": "বাবা সন্ধ্যা কফি ছিল।",
+    "original_id": 55,
+    "video_id": 28272
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00056.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28279\\REC_CS_S28279_U19_20231105_1699166198372.mp4",
+    "sentence": "বাবা সকালে কফি খাবে।",
+    "gloss": "বাবা সকাল কফি হবে।",
+    "original_id": 56,
+    "video_id": 28279
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00057.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28280\\REC_CS_S28280_U19_20231105_1699166210743.mp4",
+    "sentence": "বাবা দুপুরে কফি খাবে।",
+    "gloss": "বাবা দুপুর কফি হবে।",
+    "original_id": 57,
+    "video_id": 28280
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00058.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28281\\REC_CS_S28281_U19_20231105_1699166220184.mp4",
+    "sentence": "বাবা বিকালে কফি খাবে।",
+    "gloss": "বাবা বিকাল কফি হবে।",
+    "original_id": 58,
+    "video_id": 28281
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00059.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28282\\REC_CS_S28282_U19_20231105_1699166240472.mp4",
+    "sentence": "বাবা সন্ধ্যায় কফি খাবে।",
+    "gloss": "বাবা সন্ধ্যা কফি হবে।",
+    "original_id": 59,
+    "video_id": 28282
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00060.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28283\\REC_CS_S28283_U19_20231105_1699166260286.mp4",
+    "sentence": "বাবা রাতে কফি খাবে।",
+    "gloss": "বাবা রাত কফি হবে।",
+    "original_id": 60,
+    "video_id": 28283
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00061.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28285\\REC_CS_S28285_U19_20231105_1699166287005.mp4",
+    "sentence": "বাবা দুপুরে কফি খেয়েছে।",
+    "gloss": "বাবা দুপুর কফি হয়েছে।",
+    "original_id": 61,
+    "video_id": 28285
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00062.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28286\\REC_CS_S28286_U19_20231105_1699166308550.mp4",
+    "sentence": "বাবা বিকালে কফি খেয়েছে।",
+    "gloss": "বাবা বিকাল কফি হয়েছে।",
+    "original_id": 62,
+    "video_id": 28286
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00063.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28288\\REC_CS_S28288_U19_20231105_1699166332284.mp4",
+    "sentence": "বাবা রাতে কফি খেয়েছে।",
+    "gloss": "বাবা রাত কফি হয়েছে।",
+    "original_id": 63,
+    "video_id": 28288
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00064.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28310\\REC_CS_S28310_U19_20231105_1699168965835.mp4",
+    "sentence": "মা দুপুরে কফি খেতেন।",
+    "gloss": "মা দুপুর কফি ছিল।",
+    "original_id": 64,
+    "video_id": 28310
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00065.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28311\\REC_CS_S28311_U19_20231105_1699168981784.mp4",
+    "sentence": "মা বিকালে কফি খেতেন।",
+    "gloss": "মা বিকাল কফি ছিল।",
+    "original_id": 65,
+    "video_id": 28311
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00066.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28319\\REC_CS_S28319_U19_20231105_1699169155942.mp4",
+    "sentence": "মা সকালে কফি খাবে।",
+    "gloss": "মা সকাল কফি হবে।",
+    "original_id": 66,
+    "video_id": 28319
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00067.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28320\\REC_CS_S28320_U19_20231105_1699169168118.mp4",
+    "sentence": "মা দুপুরে কফি খাবে।",
+    "gloss": "মা দুপুর কফি হবে।",
+    "original_id": 67,
+    "video_id": 28320
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00068.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28321\\REC_CS_S28321_U19_20231105_1699169178982.mp4",
+    "sentence": "মা বিকালে কফি খাবে।",
+    "gloss": "মা বিকাল কফি হবে।",
+    "original_id": 68,
+    "video_id": 28321
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00069.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28322\\REC_CS_S28322_U19_20231105_1699169191416.mp4",
+    "sentence": "মা সন্ধ্যায় কফি খাবে।",
+    "gloss": "মা সন্ধ্যা কফি হবে।",
+    "original_id": 69,
+    "video_id": 28322
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00070.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28323\\REC_CS_S28323_U19_20231105_1699169211041.mp4",
+    "sentence": "মা রাতে কফি খাবে।",
+    "gloss": "মা রাত কফি হবে।",
+    "original_id": 70,
+    "video_id": 28323
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00071.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28325\\REC_CS_S28325_U19_20231105_1699169407547.mp4",
+    "sentence": "মা দুপুরে কফি খেয়েছে।",
+    "gloss": "মা দুপুর কফি হয়েছে।",
+    "original_id": 71,
+    "video_id": 28325
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00072.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28326\\REC_CS_S28326_U19_20231105_1699169422788.mp4",
+    "sentence": "মা বিকালে কফি খেয়েছে।",
+    "gloss": "মা বিকাল কফি হয়েছে।",
+    "original_id": 72,
+    "video_id": 28326
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00073.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28359\\REC_CS_S28359_U19_20231105_1699173237306.mp4",
+    "sentence": "দাদা সকালে কফি খাবে।",
+    "gloss": "দাদা সকাল কফি হবে।",
+    "original_id": 73,
+    "video_id": 28359
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00074.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28360\\REC_CS_S28360_U19_20231105_1699173261233.mp4",
+    "sentence": "দাদা দুপুরে কফি খাবে।",
+    "gloss": "দাদা দুপুর কফি হবে।",
+    "original_id": 74,
+    "video_id": 28360
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00075.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28361\\REC_CS_S28361_U19_20231105_1699173274168.mp4",
+    "sentence": "দাদা বিকালে কফি খাবে।",
+    "gloss": "দাদা বিকাল কফি হবে।",
+    "original_id": 75,
+    "video_id": 28361
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00076.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28362\\REC_CS_S28362_U19_20231105_1699173708178.mp4",
+    "sentence": "দাদা সন্ধ্যায় কফি খাবে।",
+    "gloss": "দাদা সন্ধ্যা কফি হবে।",
+    "original_id": 76,
+    "video_id": 28362
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00077.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28363\\REC_CS_S28363_U19_20231105_1699173731243.mp4",
+    "sentence": "দাদা রাতে কফি খাবে।",
+    "gloss": "দাদা রাত কফি হবে।",
+    "original_id": 77,
+    "video_id": 28363
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00078.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28364\\REC_CS_S28364_U19_20231105_1699173742649.mp4",
+    "sentence": "দাদা সকালে কফি খেয়েছে।",
+    "gloss": "দাদা সকাল কফি হয়েছে।",
+    "original_id": 78,
+    "video_id": 28364
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00079.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28365\\REC_CS_S28365_U19_20231105_1699173754821.mp4",
+    "sentence": "দাদা দুপুরে কফি খেয়েছে।",
+    "gloss": "দাদা দুপুর কফি হয়েছে।",
+    "original_id": 79,
+    "video_id": 28365
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00080.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28366\\REC_CS_S28366_U19_20231105_1699173767418.mp4",
+    "sentence": "দাদা বিকালে কফি খেয়েছে।",
+    "gloss": "দাদা বিকাল কফি হয়েছে।",
+    "original_id": 80,
+    "video_id": 28366
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00081.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28367\\REC_CS_S28367_U19_20231105_1699173779723.mp4",
+    "sentence": "দাদা সন্ধ্যায় কফি খেয়েছে।",
+    "gloss": "দাদা সন্ধ্যা কফি হয়েছে।",
+    "original_id": 81,
+    "video_id": 28367
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00082.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28368\\REC_CS_S28368_U19_20231105_1699173854911.mp4",
+    "sentence": "দাদা রাতে কফি খেয়েছে।",
+    "gloss": "দাদা রাত কফি হয়েছে।",
+    "original_id": 82,
+    "video_id": 28368
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00083.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28373\\REC_CS_S28373_U19_20231105_1699174024941.mp4",
+    "sentence": "দাদা রাতে কফি খেয়েছিল।",
+    "gloss": "দাদা রাত কফি ছিল।",
+    "original_id": 83,
+    "video_id": 28373
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00084.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28399\\REC_CS_S28399_U19_20231105_1699174882876.mp4",
+    "sentence": "দাদী সকালে কফি খাবে।",
+    "gloss": "দাদি সকাল কফি হবে।",
+    "original_id": 84,
+    "video_id": 28399
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00085.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28400\\REC_CS_S28400_U19_20231105_1699174895817.mp4",
+    "sentence": "দাদী দুপুরে কফি খাবে।",
+    "gloss": "দাদি দুপুর কফি হবে।",
+    "original_id": 85,
+    "video_id": 28400
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00086.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28401\\REC_CS_S28401_U19_20231105_1699174906149.mp4",
+    "sentence": "দাদী বিকালে কফি খাবে।",
+    "gloss": "দাদি বিকাল কফি হবে।",
+    "original_id": 86,
+    "video_id": 28401
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00087.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28402\\REC_CS_S28402_U19_20231105_1699174916582.mp4",
+    "sentence": "দাদী সন্ধ্যায় কফি খাবে।",
+    "gloss": "দাদি সন্ধ্যা কফি হবে।",
+    "original_id": 87,
+    "video_id": 28402
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00088.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28403\\REC_CS_S28403_U19_20231105_1699174933840.mp4",
+    "sentence": "দাদী রাতে কফি খাবে।",
+    "gloss": "দাদি রাত কফি হবে।",
+    "original_id": 88,
+    "video_id": 28403
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00089.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28404\\REC_CS_S28404_U19_20231105_1699174956855.mp4",
+    "sentence": "দাদী সকালে কফি খেয়েছে।",
+    "gloss": "দাদি সকাল কফি হয়েছে।",
+    "original_id": 89,
+    "video_id": 28404
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00090.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28405\\REC_CS_S28405_U19_20231105_1699174969200.mp4",
+    "sentence": "দাদী দুপুরে কফি খেয়েছে।",
+    "gloss": "দাদি দুপুর কফি হয়েছে।",
+    "original_id": 90,
+    "video_id": 28405
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00091.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28065\\REC_CS_S28065_U6_20231023_1698068284064.mp4",
+    "sentence": "দাদী বিকালে কফি খেয়েছে।",
+    "gloss": "দাদি বিকাল কফি হয়েছে।",
+    "original_id": 91,
+    "video_id": 28406
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00092.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28407\\REC_CS_S28407_U19_20231105_1699175009671.mp4",
+    "sentence": "দাদী সন্ধ্যায় কফি খেয়েছে।",
+    "gloss": "দাদি সন্ধ্যা কফি হয়েছে।",
+    "original_id": 92,
+    "video_id": 28407
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00093.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28408\\REC_CS_S28408_U19_20231105_1699175031063.mp4",
+    "sentence": "দাদী রাতে কফি খেয়েছে।",
+    "gloss": "দাদি রাত কফি হয়েছে।",
+    "original_id": 93,
+    "video_id": 28408
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00094.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28439\\REC_CS_S28439_U19_20231105_1699176912619.mp4",
+    "sentence": "চাচা সকালে কফি খাবে।",
+    "gloss": "চাচা সকাল কফি হবে।",
+    "original_id": 94,
+    "video_id": 28439
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00095.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28440\\REC_CS_S28440_U19_20231105_1699177061802.mp4",
+    "sentence": "চাচা দুপুরে কফি খাবে।",
+    "gloss": "চাচা দুপুর কফি হবে।",
+    "original_id": 95,
+    "video_id": 28440
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00096.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28441\\REC_CS_S28441_U19_20231105_1699177075548.mp4",
+    "sentence": "চাচা বিকালে কফি খাবে।",
+    "gloss": "চাচা বিকাল কফি হবে।",
+    "original_id": 96,
+    "video_id": 28441
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00097.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28442\\REC_CS_S28442_U19_20231105_1699177090487.mp4",
+    "sentence": "চাচা সন্ধ্যায় কফি খাবে।",
+    "gloss": "চাচা সন্ধ্যা কফি হবে।",
+    "original_id": 97,
+    "video_id": 28442
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00098.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28443\\REC_CS_S28443_U19_20231105_1699177107866.mp4",
+    "sentence": "চাচা রাতে কফি খাবে।",
+    "gloss": "চাচা রাত কফি হবে।",
+    "original_id": 98,
+    "video_id": 28443
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00099.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28445\\REC_CS_S28445_U19_20231105_1699177154411.mp4",
+    "sentence": "চাচা দুপুরে কফি খেয়েছে।",
+    "gloss": "চাচা দুপুর কফি হয়েছে।",
+    "original_id": 99,
+    "video_id": 28445
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00100.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28446\\REC_CS_S28446_U19_20231105_1699177175312.mp4",
+    "sentence": "চাচা বিকালে কফি খেয়েছে।",
+    "gloss": "চাচা বিকাল কফি হয়েছে।",
+    "original_id": 100,
+    "video_id": 28446
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00101.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28447\\REC_CS_S28447_U19_20231105_1699177185129.mp4",
+    "sentence": "চাচা সন্ধ্যায় কফি খেয়েছে।",
+    "gloss": "চাচা সন্ধ্যা কফি হয়েছে।",
+    "original_id": 101,
+    "video_id": 28447
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00102.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28448\\REC_CS_S28448_U19_20231105_1699177198753.mp4",
+    "sentence": "চাচা রাতে কফি খেয়েছে।",
+    "gloss": "চাচা রাত কফি হয়েছে।",
+    "original_id": 102,
+    "video_id": 28448
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00103.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28479\\REC_CS_S28479_U19_20231106_1699241809171.mp4",
+    "sentence": "চাচী সকালে কফি খাবে।",
+    "gloss": "চাচা বউ সকাল কফি হবে।",
+    "original_id": 103,
+    "video_id": 28479
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00104.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28480\\REC_CS_S28480_U19_20231106_1699241824509.mp4",
+    "sentence": "চাচী দুপুরে কফি খাবে।",
+    "gloss": "চাচা বউ দুপুর কফি হবে।",
+    "original_id": 104,
+    "video_id": 28480
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00105.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28481\\REC_CS_S28481_U19_20231106_1699241838663.mp4",
+    "sentence": "চাচী বিকালে কফি খাবে।",
+    "gloss": "চাচা বউ বিকাল কফি হবে।",
+    "original_id": 105,
+    "video_id": 28481
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00106.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28482\\REC_CS_S28482_U19_20231106_1699241861309.mp4",
+    "sentence": "চাচী সন্ধ্যায় কফি খাবে।",
+    "gloss": "চাচা বউ সন্ধ্যা কফি হবে।",
+    "original_id": 106,
+    "video_id": 28482
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00107.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28483\\REC_CS_S28483_U19_20231106_1699241897022.mp4",
+    "sentence": "চাচী রাতে কফি খাবে।",
+    "gloss": "চাচা বউ রাত কফি হবে।",
+    "original_id": 107,
+    "video_id": 28483
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00108.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28519\\REC_CS_S28519_U19_20231106_1699243371956.mp4",
+    "sentence": "খালা সকালে কফি খাবে।",
+    "gloss": "খালা সকাল কফি হবে।",
+    "original_id": 108,
+    "video_id": 28519
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00109.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28431\\REC_CS_S28431_U6_20231025_1698242852081.mp4",
+    "sentence": "খালা দুপুরে কফি খাবে।",
+    "gloss": "খালা দুপুর কফি হবে।",
+    "original_id": 109,
+    "video_id": 28520
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00110.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28341\\REC_CS_S28341_U5_20231022_1697986285218.mp4",
+    "sentence": "খালা বিকালে কফি খাবে।",
+    "gloss": "খালা বিকাল কফি হবে।",
+    "original_id": 110,
+    "video_id": 28521
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00111.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28522\\REC_CS_S28522_U19_20231106_1699243417792.mp4",
+    "sentence": "খালা সন্ধ্যায় কফি খাবে।",
+    "gloss": "খালা সন্ধ্যা কফি হবে।",
+    "original_id": 111,
+    "video_id": 28522
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00112.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28523\\REC_CS_S28523_U19_20231106_1699243429195.mp4",
+    "sentence": "খালা রাতে কফি খাবে।",
+    "gloss": "খালা রাত কফি হবে।",
+    "original_id": 112,
+    "video_id": 28523
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00113.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28559\\REC_CS_S28559_U19_20231106_1699246074978.mp4",
+    "sentence": "খালু সকালে কফি খাবে।",
+    "gloss": "খালা জামাই সকাল কফি হবে।",
+    "original_id": 113,
+    "video_id": 28559
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00114.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28560\\REC_CS_S28560_U19_20231106_1699246098202.mp4",
+    "sentence": "খালু দুপুরে কফি খাবে।",
+    "gloss": "খালা জামাই দুপুর কফি হবে।",
+    "original_id": 114,
+    "video_id": 28560
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00115.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28561\\REC_CS_S28561_U19_20231106_1699246200133.mp4",
+    "sentence": "খালু বিকালে কফি খাবে।",
+    "gloss": "খালা জামাই বিকাল কফি হবে।",
+    "original_id": 115,
+    "video_id": 28561
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00116.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28562\\REC_CS_S28562_U19_20231106_1699246212299.mp4",
+    "sentence": "খালু সন্ধ্যায় কফি খাবে।",
+    "gloss": "খালা জামাই সন্ধ্যা কফি হবে।",
+    "original_id": 116,
+    "video_id": 28562
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00117.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28563\\REC_CS_S28563_U19_20231106_1699246958874.mp4",
+    "sentence": "খালু রাতে কফি খাবে।",
+    "gloss": "খালা জামাই রাত কফি হবে।",
+    "original_id": 117,
+    "video_id": 28563
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00118.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28584\\REC_CS_S28584_U19_20231106_1699250660616.mp4",
+    "sentence": "বাবা সকালে মাংস খাবে না।",
+    "gloss": "বাবা সকাল মাংস খাওয়ায়া হবে না।",
+    "original_id": 118,
+    "video_id": 28584
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00119.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28586\\REC_CS_S28586_U19_20231106_1699250709742.mp4",
+    "sentence": "বাবা বিকালে মাংস খাবে না।",
+    "gloss": "বাবা বিকাল মাংস খাওয়ায়া হবে না।",
+    "original_id": 119,
+    "video_id": 28586
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00120.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28599\\REC_CS_S28599_U19_20231106_1699251008762.mp4",
+    "sentence": "বাবা সকালে মাংস খাবে।",
+    "gloss": "বাবা সকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 120,
+    "video_id": 28599
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00121.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28548\\REC_CS_S28548_U7_20231023_1698032286018.mp4",
+    "sentence": "বাবা বিকালে মাংস খাবে।",
+    "gloss": "বাবা বিকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 121,
+    "video_id": 28601
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00122.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28602\\REC_CS_S28602_U19_20231106_1699251101710.mp4",
+    "sentence": "বাবা সন্ধ্যায় মাংস খাবে।",
+    "gloss": "বাবা সন্ধ্যা মাংস খাওয়ায়া হবে।",
+    "original_id": 122,
+    "video_id": 28602
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00123.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28425\\REC_CS_S28425_U19_20231105_1699176286039.mp4",
+    "sentence": "বাবা রাতে মাংস খাবে।",
+    "gloss": "বাবা রাত মাংস খাওয়ায়া হবে।",
+    "original_id": 123,
+    "video_id": 28603
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00124.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28604\\REC_CS_S28604_U19_20231106_1699251134055.mp4",
+    "sentence": "বাবা সকালে মাংস খেয়েছে।",
+    "gloss": "বাবা সকাল মাংস খাওয়ায়া হয়েছে।",
+    "original_id": 124,
+    "video_id": 28604
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00125.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28609\\REC_CS_S28609_U19_20231106_1699253438712.mp4",
+    "sentence": "বাবা সকালে মাংস খেয়েছিল।",
+    "gloss": "বাবা সকাল মাংস খাওয়ায়া ছিল।",
+    "original_id": 125,
+    "video_id": 28609
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00126.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28610\\REC_CS_S28610_U19_20231106_1699253455771.mp4",
+    "sentence": "বাবা দুপুরে মাংস খেয়েছিল।",
+    "gloss": "বাবা দুপুর মাংস খাওয়ায়া ছিল।",
+    "original_id": 126,
+    "video_id": 28610
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00127.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28626\\REC_CS_S28626_U19_20231106_1699254003127.mp4",
+    "sentence": "মা বিকালে মাংস খাবে না।",
+    "gloss": "মা বিকাল মাংস খাওয়ায়া হবে না।",
+    "original_id": 127,
+    "video_id": 28626
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00128.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28627\\REC_CS_S28627_U19_20231106_1699254017292.mp4",
+    "sentence": "মা সন্ধ্যায় মাংস খাবে না।",
+    "gloss": "মা সন্ধ্যা মাংস খাওয়ায়া হবে না।",
+    "original_id": 128,
+    "video_id": 28627
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00129.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28639\\REC_CS_S28639_U19_20231106_1699258834300.mp4",
+    "sentence": "মা সকালে মাংস খাবে।",
+    "gloss": "মা সকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 129,
+    "video_id": 28639
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00130.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28640\\REC_CS_S28640_U19_20231106_1699258850486.mp4",
+    "sentence": "মা দুপুরে মাংস খাবে।",
+    "gloss": "মা দুপুর মাংস খাওয়ায়া হবে।",
+    "original_id": 130,
+    "video_id": 28640
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00131.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28643\\REC_CS_S28643_U19_20231106_1699258904157.mp4",
+    "sentence": "মা রাতে মাংস খাবে।",
+    "gloss": "মা রাত মাংস খাওয়ায়া হবে।",
+    "original_id": 131,
+    "video_id": 28643
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00132.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28667\\REC_CS_S28667_U19_20231106_1699259456434.mp4",
+    "sentence": "দাদা সন্ধ্যায় মাংস খাবে না।",
+    "gloss": "দাদা সন্ধ্যা মাংস খাওয়ায়া হবে না।",
+    "original_id": 132,
+    "video_id": 28667
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00133.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28677\\REC_CS_S28677_U19_20231106_1699259817591.mp4",
+    "sentence": "দাদা সন্ধ্যায় মাংস খেতেন না।",
+    "gloss": "দাদা আগে সন্ধ্যা মাংস খাওয়ায়া না।",
+    "original_id": 133,
+    "video_id": 28677
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00134.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28679\\REC_CS_S28679_U19_20231106_1699259878365.mp4",
+    "sentence": "দাদা সকালে মাংস খাবে।",
+    "gloss": "দাদা সকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 134,
+    "video_id": 28679
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00135.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28680\\REC_CS_S28680_U19_20231106_1699259917790.mp4",
+    "sentence": "দাদা দুপুরে মাংস খাবে।",
+    "gloss": "দাদা দুপুর মাংস খাওয়ায়া হবে।",
+    "original_id": 135,
+    "video_id": 28680
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00136.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28681\\REC_CS_S28681_U19_20231106_1699259957897.mp4",
+    "sentence": "দাদা বিকালে মাংস খাবে।",
+    "gloss": "দাদা বিকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 136,
+    "video_id": 28681
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00137.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28682\\REC_CS_S28682_U19_20231106_1699260024764.mp4",
+    "sentence": "দাদা সন্ধ্যায় মাংস খাবে।",
+    "gloss": "দাদা সন্ধ্যা মাংস খাওয়ায়া হবে।",
+    "original_id": 137,
+    "video_id": 28682
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00138.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28683\\REC_CS_S28683_U19_20231106_1699260049743.mp4",
+    "sentence": "দাদা রাতে মাংস খাবে।",
+    "gloss": "দাদা রাত মাংস খাওয়ায়া হবে।",
+    "original_id": 138,
+    "video_id": 28683
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00139.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28695\\REC_CS_S28695_U19_20231106_1699260309724.mp4",
+    "sentence": "দাদী দুপুরে মাংস খান না।",
+    "gloss": "দাদি দুপুর মাংস খাওয়ায়া না।",
+    "original_id": 139,
+    "video_id": 28695
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00140.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28719\\REC_CS_S28719_U19_20231106_1699262904143.mp4",
+    "sentence": "দাদী সকালে মাংস খাবে।",
+    "gloss": "দাদি সকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 140,
+    "video_id": 28719
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00141.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28720\\REC_CS_S28720_U19_20231106_1699263104012.mp4",
+    "sentence": "দাদী দুপুরে মাংস খাবে।",
+    "gloss": "দাদি দুপুর মাংস খাওয়ায়া হবে।",
+    "original_id": 141,
+    "video_id": 28720
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00142.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28721\\REC_CS_S28721_U19_20231106_1699263177662.mp4",
+    "sentence": "দাদী বিকালে মাংস খাবে।",
+    "gloss": "দাদি বিকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 142,
+    "video_id": 28721
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00143.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28722\\REC_CS_S28722_U19_20231106_1699263198031.mp4",
+    "sentence": "দাদী সন্ধ্যায় মাংস খাবে।",
+    "gloss": "দাদি সন্ধ্যা মাংস খাওয়ায়া হবে।",
+    "original_id": 143,
+    "video_id": 28722
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00144.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28723\\REC_CS_S28723_U19_20231106_1699263212760.mp4",
+    "sentence": "দাদী রাতে মাংস খাবে।",
+    "gloss": "দাদি রাত মাংস খাওয়ায়া হবে।",
+    "original_id": 144,
+    "video_id": 28723
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00145.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28739\\REC_CS_S28739_U19_20231106_1699263661810.mp4",
+    "sentence": "চাচা সকালে মাংস খায়নি।",
+    "gloss": "চাচা সকাল মাংস খাওয়ায়া নেই।",
+    "original_id": 145,
+    "video_id": 28739
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00146.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28746\\REC_CS_S28746_U19_20231106_1699263993993.mp4",
+    "sentence": "চাচা বিকালে মাংস খাবে না।",
+    "gloss": "চাচা বিকাল মাংস খাওয়ায়া হবে না।",
+    "original_id": 146,
+    "video_id": 28746
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00147.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28747\\REC_CS_S28747_U19_20231106_1699264011801.mp4",
+    "sentence": "চাচা সন্ধ্যায় মাংস খাবে না।",
+    "gloss": "চাচা সন্ধ্যা মাংস খাওয়ায়া হবে না।",
+    "original_id": 147,
+    "video_id": 28747
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00148.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28755\\REC_CS_S28755_U19_20231106_1699264325641.mp4",
+    "sentence": "চাচা দুপুরে মাংস খেতেন না।",
+    "gloss": "চাচা আগে দুপুর মাংস খাওয়ায়া না।",
+    "original_id": 148,
+    "video_id": 28755
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00149.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28758\\REC_CS_S28758_U19_20231106_1699264450393.mp4",
+    "sentence": "চাচা রাতে মাংস খেতেন না।",
+    "gloss": "চাচা আগে রাত মাংস খাওয়ায়া না।",
+    "original_id": 149,
+    "video_id": 28758
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00150.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28637\\REC_CS_S28637_U4_20231018_1697606287595.mp4",
+    "sentence": "চাচা সকালে মাংস খাবে।",
+    "gloss": "চাচা সকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 150,
+    "video_id": 28759
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00151.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28760\\REC_CS_S28760_U19_20231106_1699264501193.mp4",
+    "sentence": "চাচা দুপুরে মাংস খাবে।",
+    "gloss": "চাচা দুপুর মাংস খাওয়ায়া হবে।",
+    "original_id": 151,
+    "video_id": 28760
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00152.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28761\\REC_CS_S28761_U19_20231106_1699264520335.mp4",
+    "sentence": "চাচা বিকালে মাংস খাবে।",
+    "gloss": "চাচা বিকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 152,
+    "video_id": 28761
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00153.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28762\\REC_CS_S28762_U19_20231106_1699264555795.mp4",
+    "sentence": "চাচা সন্ধ্যায় মাংস খাবে।",
+    "gloss": "চাচা সন্ধ্যা মাংস খাওয়ায়া হবে।",
+    "original_id": 153,
+    "video_id": 28762
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00154.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28763\\REC_CS_S28763_U19_20231107_1699327865896.mp4",
+    "sentence": "চাচা রাতে মাংস খাবে।",
+    "gloss": "চাচা রাত মাংস খাওয়ায়া হবে।",
+    "original_id": 154,
+    "video_id": 28763
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00155.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28769\\REC_CS_S28769_U19_20231107_1699328350740.mp4",
+    "sentence": "চাচা সকালে মাংস খেয়েছিল।",
+    "gloss": "চাচা সকাল মাংস খাওয়ায়া ছিল।",
+    "original_id": 155,
+    "video_id": 28769
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00156.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28779\\REC_CS_S28779_U19_20231107_1699328564322.mp4",
+    "sentence": "চাচী সকালে মাংস খায়নি।",
+    "gloss": "চাচা বউ সকাল মাংস খাওয়ায়া নেই।",
+    "original_id": 156,
+    "video_id": 28779
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00157.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28799\\REC_CS_S28799_U19_20231107_1699329366937.mp4",
+    "sentence": "চাচী সকালে মাংস খাবে।",
+    "gloss": "চাচা বউ সকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 157,
+    "video_id": 28799
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00158.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28800\\REC_CS_S28800_U19_20231107_1699329378356.mp4",
+    "sentence": "চাচী দুপুরে মাংস খাবে।",
+    "gloss": "চাচা বউ দুপুর মাংস খাওয়ায়া হবে।",
+    "original_id": 158,
+    "video_id": 28800
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00159.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27982\\REC_CS_S27982_U4_20231017_1697535288010.mp4",
+    "sentence": "চাচী বিকালে মাংস খাবে।",
+    "gloss": "চাচা বউ বিকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 159,
+    "video_id": 28801
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00160.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28802\\REC_CS_S28802_U19_20231107_1699329425079.mp4",
+    "sentence": "চাচী সন্ধ্যায় মাংস খাবে।",
+    "gloss": "চাচা বউ সন্ধ্যা মাংস খাওয়ায়া হবে।",
+    "original_id": 160,
+    "video_id": 28802
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00161.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28803\\REC_CS_S28803_U19_20231107_1699329437175.mp4",
+    "sentence": "চাচী রাতে মাংস খাবে।",
+    "gloss": "চাচা বউ রাত মাংস খাওয়ায়া হবে।",
+    "original_id": 161,
+    "video_id": 28803
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00162.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28806\\REC_CS_S28806_U19_20231107_1699329474064.mp4",
+    "sentence": "চাচী বিকালে মাংস খেয়েছে।",
+    "gloss": "চাচা বউ বিকাল মাংস খাওয়ায়া হয়েছে।",
+    "original_id": 162,
+    "video_id": 28806
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00163.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28837\\REC_CS_S28837_U19_20231107_1699329901919.mp4",
+    "sentence": "খালা সন্ধ্যায় মাংস খেতেন না।",
+    "gloss": "খালা আগে সন্ধ্যা মাংস খাওয়ায়া না।",
+    "original_id": 163,
+    "video_id": 28837
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00164.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28839\\REC_CS_S28839_U19_20231107_1699329924435.mp4",
+    "sentence": "খালা সকালে মাংস খাবে।",
+    "gloss": "খালা সকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 164,
+    "video_id": 28839
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00165.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28840\\REC_CS_S28840_U19_20231107_1699329933472.mp4",
+    "sentence": "খালা দুপুরে মাংস খাবে।",
+    "gloss": "খালা দুপুর মাংস খাওয়ায়া হবে।",
+    "original_id": 165,
+    "video_id": 28840
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00166.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28841\\REC_CS_S28841_U19_20231107_1699329994203.mp4",
+    "sentence": "খালা বিকালে মাংস খাবে।",
+    "gloss": "খালা বিকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 166,
+    "video_id": 28841
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00167.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28842\\REC_CS_S28842_U19_20231107_1699330003483.mp4",
+    "sentence": "খালা সন্ধ্যায় মাংস খাবে।",
+    "gloss": "খালা সন্ধ্যা মাংস খাওয়ায়া হবে।",
+    "original_id": 167,
+    "video_id": 28842
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00168.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28843\\REC_CS_S28843_U19_20231107_1699330013446.mp4",
+    "sentence": "খালা রাতে মাংস খাবে।",
+    "gloss": "খালা রাত মাংস খাওয়ায়া হবে।",
+    "original_id": 168,
+    "video_id": 28843
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00169.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28848\\REC_CS_S28848_U19_20231107_1699330068213.mp4",
+    "sentence": "খালা রাতে মাংস খেয়েছে।",
+    "gloss": "খালা রাত মাংস খাওয়ায়া হয়েছে।",
+    "original_id": 169,
+    "video_id": 28848
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00170.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28852\\REC_CS_S28852_U19_20231107_1699330109730.mp4",
+    "sentence": "খালা সন্ধ্যায় মাংস খেয়েছিল।",
+    "gloss": "খালা সন্ধ্যা মাংস খাওয়ায়া ছিল।",
+    "original_id": 170,
+    "video_id": 28852
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00171.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28879\\REC_CS_S28879_U19_20231107_1699330580578.mp4",
+    "sentence": "খালু সকালে মাংস খাবে।",
+    "gloss": "খালা জামাই সকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 171,
+    "video_id": 28879
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00172.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28880\\REC_CS_S28880_U19_20231107_1699330590578.mp4",
+    "sentence": "খালু দুপুরে মাংস খাবে।",
+    "gloss": "খালা জামাই দুপুর মাংস খাওয়ায়া হবে।",
+    "original_id": 172,
+    "video_id": 28880
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00173.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28881\\REC_CS_S28881_U19_20231107_1699330601082.mp4",
+    "sentence": "খালু বিকালে মাংস খাবে।",
+    "gloss": "খালা জামাই বিকাল মাংস খাওয়ায়া হবে।",
+    "original_id": 173,
+    "video_id": 28881
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00174.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28882\\REC_CS_S28882_U19_20231107_1699330612240.mp4",
+    "sentence": "খালু সন্ধ্যায় মাংস খাবে।",
+    "gloss": "খালা জামাই সন্ধ্যা মাংস খাওয়ায়া হবে।",
+    "original_id": 174,
+    "video_id": 28882
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00175.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28784\\REC_CS_S28784_U19_20231107_1699328883355.mp4",
+    "sentence": "খালু রাতে মাংস খাবে।",
+    "gloss": "খালা জামাই রাত মাংস খাওয়ায়া হবে।",
+    "original_id": 175,
+    "video_id": 28883
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00176.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28888\\REC_CS_S28888_U19_20231107_1699330697463.mp4",
+    "sentence": "খালু রাতে মাংস খেয়েছে।",
+    "gloss": "খালা জামাই রাত মাংস খাওয়ায়া হয়েছে।",
+    "original_id": 176,
+    "video_id": 28888
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00177.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28897\\REC_CS_S28897_U19_20231107_1699334157268.mp4",
+    "sentence": "বাবা সন্ধ্যায় ডাল খান না।",
+    "gloss": "বাবা সন্ধ্যা ডাল খাওয়ায়া না।",
+    "original_id": 177,
+    "video_id": 28897
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00178.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28903\\REC_CS_S28903_U19_20231107_1699334361320.mp4",
+    "sentence": "বাবা রাতে ডাল খায়নি।",
+    "gloss": "বাবা রাত ডাল খাওয়ায়া নেই।",
+    "original_id": 178,
+    "video_id": 28903
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00179.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28904\\REC_CS_S28904_U19_20231107_1699334374022.mp4",
+    "sentence": "বাবা সকালে ডাল খাবে না।",
+    "gloss": "বাবা সকাল ডাল খাওয়ায়া হবে না।",
+    "original_id": 179,
+    "video_id": 28904
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00180.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28907\\REC_CS_S28907_U19_20231107_1699334410733.mp4",
+    "sentence": "বাবা সন্ধ্যায় ডাল খাবে না।",
+    "gloss": "বাবা সন্ধ্যা ডাল খাওয়ায়া হবে না।",
+    "original_id": 180,
+    "video_id": 28907
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00181.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28119\\REC_CS_S28119_U19_20231104_1699112128910.mp4",
+    "sentence": "বাবা দুপুরে ডাল খেতেন।",
+    "gloss": "বাবা আগে দুপুর ডাল খাওয়ায়া ছিল।",
+    "original_id": 181,
+    "video_id": 28910
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00182.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28912\\REC_CS_S28912_U19_20231107_1699334475494.mp4",
+    "sentence": "বাবা সন্ধ্যায় ডাল খেতেন।",
+    "gloss": "বাবা আগে সন্ধ্যা ডাল খাওয়ায়া ছিল।",
+    "original_id": 182,
+    "video_id": 28912
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00183.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28915\\REC_CS_S28915_U19_20231107_1699334520606.mp4",
+    "sentence": "বাবা দুপুরে ডাল খেতেন না।",
+    "gloss": "বাবা আগে দুপুর ডাল খাওয়ায়া না।",
+    "original_id": 183,
+    "video_id": 28915
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00184.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28919\\REC_CS_S28919_U19_20231107_1699334566967.mp4",
+    "sentence": "বাবা সকালে ডাল খাবে।",
+    "gloss": "বাবা সকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 184,
+    "video_id": 28919
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00185.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28920\\REC_CS_S28920_U19_20231107_1699334578862.mp4",
+    "sentence": "বাবা দুপুরে ডাল খাবে।",
+    "gloss": "বাবা দুপুর ডাল খাওয়ায়া হবে।",
+    "original_id": 185,
+    "video_id": 28920
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00186.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28921\\REC_CS_S28921_U19_20231107_1699334646487.mp4",
+    "sentence": "বাবা বিকালে ডাল খাবে।",
+    "gloss": "বাবা বিকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 186,
+    "video_id": 28921
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00187.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28922\\REC_CS_S28922_U19_20231107_1699334673777.mp4",
+    "sentence": "বাবা সন্ধ্যায় ডাল খাবে।",
+    "gloss": "বাবা সন্ধ্যা ডাল খাওয়ায়া হবে।",
+    "original_id": 187,
+    "video_id": 28922
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00188.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28923\\REC_CS_S28923_U19_20231107_1699334685334.mp4",
+    "sentence": "বাবা রাতে ডাল খাবে।",
+    "gloss": "বাবা রাত ডাল খাওয়ায়া হবে।",
+    "original_id": 188,
+    "video_id": 28923
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00189.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28924\\REC_CS_S28924_U19_20231107_1699334710366.mp4",
+    "sentence": "বাবা সকালে ডাল খেয়েছে।",
+    "gloss": "বাবা সকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 189,
+    "video_id": 28924
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00190.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28926\\REC_CS_S28926_U19_20231107_1699334732341.mp4",
+    "sentence": "বাবা বিকালে ডাল খেয়েছে।",
+    "gloss": "বাবা বিকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 190,
+    "video_id": 28926
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00191.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28928\\REC_CS_S28928_U19_20231107_1699334751793.mp4",
+    "sentence": "বাবা রাতে ডাল খেয়েছে।",
+    "gloss": "বাবা রাত ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 191,
+    "video_id": 28928
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00192.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28942\\REC_CS_S28942_U19_20231107_1699334952598.mp4",
+    "sentence": "মা সন্ধ্যায় ডাল খায়নি।",
+    "gloss": "মা সন্ধ্যা ডাল খাওয়ায়া নেই।",
+    "original_id": 192,
+    "video_id": 28942
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00193.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28919\\REC_CS_S28919_U4_20231018_1697628944586.mp4",
+    "sentence": "মা সকালে ডাল খাবে না।",
+    "gloss": "মা সকাল ডাল খাওয়ায়া হবে না।",
+    "original_id": 193,
+    "video_id": 28944
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00194.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28945\\REC_CS_S28945_U19_20231107_1699335000292.mp4",
+    "sentence": "মা দুপুরে ডাল খাবে না।",
+    "gloss": "মা দুপুর ডাল খাওয়ায়া হবে না।",
+    "original_id": 194,
+    "video_id": 28945
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00195.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28957\\REC_CS_S28957_U19_20231107_1699335182548.mp4",
+    "sentence": "মা সন্ধ্যায় ডাল খেতেন না।",
+    "gloss": "মা আগে সন্ধ্যা ডাল খাওয়ায়া না।",
+    "original_id": 195,
+    "video_id": 28957
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00196.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28959\\REC_CS_S28959_U19_20231107_1699335207911.mp4",
+    "sentence": "মা সকালে ডাল খাবে।",
+    "gloss": "মা সকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 196,
+    "video_id": 28959
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00197.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28920\\REC_CS_S28920_U4_20231018_1697628960579.mp4",
+    "sentence": "মা দুপুরে ডাল খাবে।",
+    "gloss": "মা দুপুর ডাল খাওয়ায়া হবে।",
+    "original_id": 197,
+    "video_id": 28960
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00198.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28759\\REC_CS_S28759_U6_20231026_1698322896119.mp4",
+    "sentence": "মা বিকালে ডাল খাবে।",
+    "gloss": "মা বিকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 198,
+    "video_id": 28961
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00199.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28962\\REC_CS_S28962_U19_20231107_1699335236857.mp4",
+    "sentence": "মা সন্ধ্যায় ডাল খাবে।",
+    "gloss": "মা সন্ধ্যা ডাল খাওয়ায়া হবে।",
+    "original_id": 199,
+    "video_id": 28962
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00200.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28963\\REC_CS_S28963_U19_20231107_1699340120981.mp4",
+    "sentence": "মা রাতে ডাল খাবে।",
+    "gloss": "মা রাত ডাল খাওয়ায়া হবে।",
+    "original_id": 200,
+    "video_id": 28963
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00201.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28977\\REC_CS_S28977_U19_20231107_1699340268937.mp4",
+    "sentence": "দাদা সন্ধ্যায় ডাল খান না।",
+    "gloss": "দাদা সন্ধ্যা ডাল খাওয়ায়া না।",
+    "original_id": 201,
+    "video_id": 28977
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00202.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28987\\REC_CS_S28987_U19_20231107_1699340434238.mp4",
+    "sentence": "দাদা সন্ধ্যায় ডাল খাবে না।",
+    "gloss": "দাদা সন্ধ্যা ডাল খাওয়ায়া হবে না।",
+    "original_id": 202,
+    "video_id": 28987
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00203.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28992\\REC_CS_S28992_U19_20231107_1699340501264.mp4",
+    "sentence": "দাদা সন্ধ্যায় ডাল খেতেন।",
+    "gloss": "দাদা আগে সন্ধ্যা ডাল খাওয়ায়া ছিল।",
+    "original_id": 203,
+    "video_id": 28992
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00204.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28999\\REC_CS_S28999_U19_20231107_1699340585209.mp4",
+    "sentence": "দাদা সকালে ডাল খাবে।",
+    "gloss": "দাদা সকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 204,
+    "video_id": 28999
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00205.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28922\\REC_CS_S28922_U4_20231018_1697629000620.mp4",
+    "sentence": "দাদা দুপুরে ডাল খাবে।",
+    "gloss": "দাদা দুপুর ডাল খাওয়ায়া হবে।",
+    "original_id": 205,
+    "video_id": 29000
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00206.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29001\\REC_CS_S29001_U19_20231107_1699340608140.mp4",
+    "sentence": "দাদা বিকালে ডাল খাবে।",
+    "gloss": "দাদা বিকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 206,
+    "video_id": 29001
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00207.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29002\\REC_CS_S29002_U19_20231107_1699340618342.mp4",
+    "sentence": "দাদা সন্ধ্যায় ডাল খাবে।",
+    "gloss": "দাদা সন্ধ্যা ডাল খাওয়ায়া হবে।",
+    "original_id": 207,
+    "video_id": 29002
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00208.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29003\\REC_CS_S29003_U19_20231107_1699340630055.mp4",
+    "sentence": "দাদা রাতে ডাল খাবে।",
+    "gloss": "দাদা রাত ডাল খাওয়ায়া হবে।",
+    "original_id": 208,
+    "video_id": 29003
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00209.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29004\\REC_CS_S29004_U19_20231107_1699340642207.mp4",
+    "sentence": "দাদা সকালে ডাল খেয়েছে।",
+    "gloss": "দাদা সকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 209,
+    "video_id": 29004
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00210.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29005\\REC_CS_S29005_U19_20231107_1699340654531.mp4",
+    "sentence": "দাদা দুপুরে ডাল খেয়েছে।",
+    "gloss": "দাদা দুপুর ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 210,
+    "video_id": 29005
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00211.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28992\\REC_CS_S28992_U5_20231025_1698235029006.mp4",
+    "sentence": "দাদা বিকালে ডাল খেয়েছে।",
+    "gloss": "দাদা বিকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 211,
+    "video_id": 29006
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00212.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29013\\REC_CS_S29013_U19_20231107_1699340753167.mp4",
+    "sentence": "দাদা রাতে ডাল খেয়েছিল।",
+    "gloss": "দাদা রাত ডাল খাওয়ায়া ছিল।",
+    "original_id": 212,
+    "video_id": 29013
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00213.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29027\\REC_CS_S29027_U19_20231107_1699341035459.mp4",
+    "sentence": "দাদী সন্ধ্যায় ডাল খাবে না।",
+    "gloss": "দাদি সন্ধ্যা ডাল খাওয়ায়া হবে না।",
+    "original_id": 213,
+    "video_id": 29027
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00214.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29028\\REC_CS_S29028_U19_20231107_1699341065447.mp4",
+    "sentence": "দাদী রাতে ডাল খাবে না।",
+    "gloss": "দাদি রাত ডাল খাওয়ায়া হবে না।",
+    "original_id": 214,
+    "video_id": 29028
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00215.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29037\\REC_CS_S29037_U19_20231107_1699341427440.mp4",
+    "sentence": "দাদী সন্ধ্যায় ডাল খেতেন না।",
+    "gloss": "দাদি আগে সন্ধ্যা ডাল খাওয়ায়া না।",
+    "original_id": 215,
+    "video_id": 29037
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00216.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29039\\REC_CS_S29039_U19_20231107_1699341452109.mp4",
+    "sentence": "দাদী সকালে ডাল খাবে।",
+    "gloss": "দাদি সকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 216,
+    "video_id": 29039
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00217.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29040\\REC_CS_S29040_U19_20231107_1699341467029.mp4",
+    "sentence": "দাদী দুপুরে ডাল খাবে।",
+    "gloss": "দাদি দুপুর ডাল খাওয়ায়া হবে।",
+    "original_id": 217,
+    "video_id": 29040
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00218.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28719\\REC_CS_S28719_U19_20231106_1699262904143.mp4",
+    "sentence": "দাদী বিকালে ডাল খাবে।",
+    "gloss": "দাদি বিকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 218,
+    "video_id": 29041
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00219.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28637\\REC_CS_S28637_U7_20231023_1698039629043.mp4",
+    "sentence": "দাদী রাতে ডাল খাবে।",
+    "gloss": "দাদি রাত ডাল খাওয়ায়া হবে।",
+    "original_id": 219,
+    "video_id": 29043
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00220.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29044\\REC_CS_S29044_U19_20231107_1699341522151.mp4",
+    "sentence": "দাদী সকালে ডাল খেয়েছে।",
+    "gloss": "দাদি সকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 220,
+    "video_id": 29044
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00221.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28924\\REC_CS_S28924_U4_20231018_1697629046132.mp4",
+    "sentence": "দাদী বিকালে ডাল খেয়েছে।",
+    "gloss": "দাদি বিকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 221,
+    "video_id": 29046
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00222.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29053\\REC_CS_S29053_U19_20231107_1699341880288.mp4",
+    "sentence": "দাদী রাতে ডাল খেয়েছিল।",
+    "gloss": "দাদি রাত ডাল খাওয়ায়া ছিল।",
+    "original_id": 222,
+    "video_id": 29053
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00223.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29057\\REC_CS_S29057_U19_20231107_1699341940438.mp4",
+    "sentence": "চাচা সন্ধ্যায় ডাল খান না।",
+    "gloss": "চাচা সন্ধ্যা ডাল খাওয়ায়া না।",
+    "original_id": 223,
+    "video_id": 29057
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00224.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29063\\REC_CS_S29063_U19_20231107_1699342006772.mp4",
+    "sentence": "চাচা রাতে ডাল খায়নি।",
+    "gloss": "চাচা রাত ডাল খাওয়ায়া নেই।",
+    "original_id": 224,
+    "video_id": 29063
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00225.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29077\\REC_CS_S29077_U19_20231108_1699416148107.mp4",
+    "sentence": "চাচা সন্ধ্যায় ডাল খেতেন না।",
+    "gloss": "চাচা আগে সন্ধ্যা ডাল খাওয়ায়া না।",
+    "original_id": 225,
+    "video_id": 29077
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00226.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29079\\REC_CS_S29079_U19_20231108_1699416346996.mp4",
+    "sentence": "চাচা সকালে ডাল খাবে।",
+    "gloss": "চাচা সকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 226,
+    "video_id": 29079
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00227.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29080\\REC_CS_S29080_U19_20231108_1699416487792.mp4",
+    "sentence": "চাচা দুপুরে ডাল খাবে।",
+    "gloss": "চাচা দুপুর ডাল খাওয়ায়া হবে।",
+    "original_id": 227,
+    "video_id": 29080
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00228.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28927\\REC_CS_S28927_U4_20231018_1697629081245.mp4",
+    "sentence": "চাচা বিকালে ডাল খাবে।",
+    "gloss": "চাচা বিকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 228,
+    "video_id": 29081
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00229.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29051\\REC_CS_S29051_U5_20231025_1698236429082.mp4",
+    "sentence": "চাচা সন্ধ্যায় ডাল খাবে।",
+    "gloss": "চাচা সন্ধ্যা ডাল খাওয়ায়া হবে।",
+    "original_id": 229,
+    "video_id": 29082
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00230.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28760\\REC_CS_S28760_U6_20231026_1698322908432.mp4",
+    "sentence": "চাচা সকালে ডাল খেয়েছে।",
+    "gloss": "চাচা সকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 230,
+    "video_id": 29084
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00231.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28592\\REC_CS_S28592_U4_20231018_1697604829087.mp4",
+    "sentence": "চাচা সন্ধ্যায় ডাল খেয়েছে।",
+    "gloss": "চাচা সন্ধ্যা ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 231,
+    "video_id": 29087
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00232.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29090\\REC_CS_S29090_U19_20231108_1699416728327.mp4",
+    "sentence": "চাচা দুপুরে ডাল খেয়েছিল।",
+    "gloss": "চাচা দুপুর ডাল খাওয়ায়া ছিল।",
+    "original_id": 232,
+    "video_id": 29090
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00233.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29091\\REC_CS_S29091_U19_20231108_1699416750243.mp4",
+    "sentence": "চাচা বিকালে ডাল খেয়েছিল।",
+    "gloss": "চাচা বিকাল ডাল খাওয়ায়া ছিল।",
+    "original_id": 233,
+    "video_id": 29091
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00234.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28486\\REC_CS_S28486_U4_20231017_1697556290925.mp4",
+    "sentence": "চাচা সন্ধ্যায় ডাল খেয়েছিল।",
+    "gloss": "চাচা সন্ধ্যা ডাল খাওয়ায়া ছিল।",
+    "original_id": 234,
+    "video_id": 29092
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00235.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29099\\REC_CS_S29099_U19_20231108_1699418060175.mp4",
+    "sentence": "চাচী সকালে ডাল খায়নি।",
+    "gloss": "চাচা বউ সকাল ডাল খাওয়ায়া নেই।",
+    "original_id": 235,
+    "video_id": 29099
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00236.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29100\\REC_CS_S29100_U19_20231108_1699418227032.mp4",
+    "sentence": "চাচী দুপুরে ডাল খায়নি।",
+    "gloss": "চাচা বউ দুপুর ডাল খাওয়ায়া নেই।",
+    "original_id": 236,
+    "video_id": 29100
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00237.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29106\\REC_CS_S29106_U19_20231108_1699418347813.mp4",
+    "sentence": "চাচী বিকালে ডাল খাবে না।",
+    "gloss": "চাচা বউ বিকাল ডাল খাওয়ায়া না।",
+    "original_id": 237,
+    "video_id": 29106
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00238.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29119\\REC_CS_S29119_U19_20231108_1699419019768.mp4",
+    "sentence": "চাচী সকালে ডাল খাবে।",
+    "gloss": "চাচা বউ সকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 238,
+    "video_id": 29119
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00239.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29120\\REC_CS_S29120_U19_20231108_1699419035798.mp4",
+    "sentence": "চাচী দুপুরে ডাল খাবে।",
+    "gloss": "চাচা বউ দুপুর ডাল খাওয়ায়া হবে।",
+    "original_id": 239,
+    "video_id": 29120
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00240.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29121\\REC_CS_S29121_U19_20231108_1699419051455.mp4",
+    "sentence": "চাচী বিকালে ডাল খাবে।",
+    "gloss": "চাচা বউ বিকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 240,
+    "video_id": 29121
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00241.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29122\\REC_CS_S29122_U19_20231108_1699419067522.mp4",
+    "sentence": "চাচী সন্ধ্যায় ডাল খাবে।",
+    "gloss": "চাচা বউ সন্ধ্যা ডাল খাওয়ায়া হবে।",
+    "original_id": 241,
+    "video_id": 29122
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00242.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29124\\REC_CS_S29124_U19_20231108_1699419108454.mp4",
+    "sentence": "চাচী সকালে ডাল খেয়েছে।",
+    "gloss": "চাচা বউ সকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 242,
+    "video_id": 29124
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00243.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29125\\REC_CS_S29125_U19_20231108_1699419125805.mp4",
+    "sentence": "চাচী দুপুরে ডাল খেয়েছে।",
+    "gloss": "চাচা বউ দুপুর ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 243,
+    "video_id": 29125
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00244.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29126\\REC_CS_S29126_U19_20231108_1699419149159.mp4",
+    "sentence": "চাচী বিকালে ডাল খেয়েছে।",
+    "gloss": "চাচা বউ বিকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 244,
+    "video_id": 29126
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00245.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29130\\REC_CS_S29130_U19_20231108_1699419400422.mp4",
+    "sentence": "চাচী দুপুরে ডাল খেয়েছিল।",
+    "gloss": "চাচা বউ দুপুর ডাল খাওয়ায়া ছিল।",
+    "original_id": 245,
+    "video_id": 29130
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00246.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28696\\REC_CS_S28696_U19_20231106_1699260329131.mp4",
+    "sentence": "চাচী বিকালে ডাল খেয়েছিল।",
+    "gloss": "চাচা বউ বিকাল ডাল খাওয়ায়া ছিল।",
+    "original_id": 246,
+    "video_id": 29131
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00247.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29137\\REC_CS_S29137_U19_20231108_1699419528697.mp4",
+    "sentence": "খালা সন্ধ্যায় ডাল খান না।",
+    "gloss": "খালা সন্ধ্যা ডাল খাওয়ায়া না।",
+    "original_id": 247,
+    "video_id": 29137
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00248.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29142\\REC_CS_S29142_U19_20231108_1699419617108.mp4",
+    "sentence": "খালা সন্ধ্যায় ডাল খায়নি।",
+    "gloss": "খালা সন্ধ্যা ডাল খাওয়ায়া নেই।",
+    "original_id": 248,
+    "video_id": 29142
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00249.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29152\\REC_CS_S29152_U19_20231108_1699419789228.mp4",
+    "sentence": "খালা সন্ধ্যায় ডাল খেতেন।",
+    "gloss": "খালা আগে সন্ধ্যা ডাল খাওয়ায়া ছিল।",
+    "original_id": 249,
+    "video_id": 29152
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00250.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29159\\REC_CS_S29159_U19_20231108_1699419982114.mp4",
+    "sentence": "খালা সকালে ডাল খাবে।",
+    "gloss": "খালা সকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 250,
+    "video_id": 29159
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00251.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29160\\REC_CS_S29160_U19_20231108_1699419996016.mp4",
+    "sentence": "খালা দুপুরে ডাল খাবে।",
+    "gloss": "খালা দুপুর ডাল খাওয়ায়া হবে।",
+    "original_id": 251,
+    "video_id": 29160
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00252.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29161\\REC_CS_S29161_U19_20231108_1699420010487.mp4",
+    "sentence": "খালা বিকালে ডাল খাবে।",
+    "gloss": "খালা বিকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 252,
+    "video_id": 29161
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00253.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29162\\REC_CS_S29162_U19_20231108_1699420027769.mp4",
+    "sentence": "খালা সন্ধ্যায় ডাল খাবে।",
+    "gloss": "খালা সন্ধ্যা ডাল খাওয়ায়া হবে।",
+    "original_id": 253,
+    "video_id": 29162
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00254.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28283\\REC_CS_S28283_U6_20231023_1698074291636.mp4",
+    "sentence": "খালা রাতে ডাল খাবে।",
+    "gloss": "খালা রাত ডাল খাওয়ায়া হবে।",
+    "original_id": 254,
+    "video_id": 29163
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00255.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29164\\REC_CS_S29164_U19_20231108_1699420460213.mp4",
+    "sentence": "খালা সকালে ডাল খেয়েছে।",
+    "gloss": "খালা সকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 255,
+    "video_id": 29164
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00256.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28933\\REC_CS_S28933_U4_20231018_1697629165720.mp4",
+    "sentence": "খালা দুপুরে ডাল খেয়েছে।",
+    "gloss": "খালা দুপুর ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 256,
+    "video_id": 29165
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00257.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29168\\REC_CS_S29168_U19_20231108_1699420530792.mp4",
+    "sentence": "খালা রাতে ডাল খেয়েছে।",
+    "gloss": "খালা রাত ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 257,
+    "video_id": 29168
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00258.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29172\\REC_CS_S29172_U19_20231108_1699420835730.mp4",
+    "sentence": "খালা সন্ধ্যায় ডাল খেয়েছিল।",
+    "gloss": "খালা সন্ধ্যা ডাল খাওয়ায়া ছিল।",
+    "original_id": 258,
+    "video_id": 29172
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00259.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28628\\REC_CS_S28628_U19_20231106_1699254029180.mp4",
+    "sentence": "খালু দুপুরে ডাল খায়নি।",
+    "gloss": "খালা জামাই দুপুর ডাল খাওয়ায়া নেই।",
+    "original_id": 259,
+    "video_id": 29180
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00260.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28129\\REC_CS_S28129_U4_20231017_1697541291828.mp4",
+    "sentence": "খালু সন্ধ্যায় ডাল খায়নি।",
+    "gloss": "খালা জামাই সন্ধ্যা ডাল খাওয়ায়া নেই।",
+    "original_id": 260,
+    "video_id": 29182
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00261.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29199\\REC_CS_S29199_U19_20231108_1699421973997.mp4",
+    "sentence": "খালু সকালে ডাল খাবে।",
+    "gloss": "খালা জামাই সকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 261,
+    "video_id": 29199
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00262.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29200\\REC_CS_S29200_U19_20231108_1699421990304.mp4",
+    "sentence": "খালু দুপুরে ডাল খাবে।",
+    "gloss": "খালা জামাই দুপুর ডাল খাওয়ায়া হবে।",
+    "original_id": 262,
+    "video_id": 29200
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00263.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29201\\REC_CS_S29201_U19_20231108_1699422005450.mp4",
+    "sentence": "খালু বিকালে ডাল খাবে।",
+    "gloss": "খালা জামাই বিকাল ডাল খাওয়ায়া হবে।",
+    "original_id": 263,
+    "video_id": 29201
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00264.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29202\\REC_CS_S29202_U19_20231108_1699422021193.mp4",
+    "sentence": "খালু সন্ধ্যায় ডাল খাবে।",
+    "gloss": "খালা জামাই সন্ধ্যা ডাল খাওয়ায়া হবে।",
+    "original_id": 264,
+    "video_id": 29202
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00265.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29203\\REC_CS_S29203_U19_20231108_1699422036722.mp4",
+    "sentence": "খালু রাতে ডাল খাবে।",
+    "gloss": "খালা জামাই রাত ডাল খাওয়ায়া হবে।",
+    "original_id": 265,
+    "video_id": 29203
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00266.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28501\\REC_CS_S28501_U7_20231022_1697962920563.mp4",
+    "sentence": "খালু দুপুরে ডাল খেয়েছে।",
+    "gloss": "খালা জামাই দুপুর ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 266,
+    "video_id": 29205
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00267.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29206\\REC_CS_S29206_U19_20231108_1699422123388.mp4",
+    "sentence": "খালু বিকালে ডাল খেয়েছে।",
+    "gloss": "খালা জামাই বিকাল ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 267,
+    "video_id": 29206
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00268.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28856\\REC_CS_S28856_U4_20231018_1697622920700.mp4",
+    "sentence": "খালু সন্ধ্যায় ডাল খেয়েছে।",
+    "gloss": "খালা জামাই সন্ধ্যা ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 268,
+    "video_id": 29207
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00269.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29208\\REC_CS_S29208_U19_20231108_1699422165634.mp4",
+    "sentence": "খালু রাতে ডাল খেয়েছে।",
+    "gloss": "খালা জামাই রাত ডাল খাওয়ায়া হয়েছে।",
+    "original_id": 269,
+    "video_id": 29208
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00270.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29212\\REC_CS_S29212_U19_20231108_1699422228559.mp4",
+    "sentence": "খালু সন্ধ্যায় ডাল খেয়েছিল।",
+    "gloss": "খালা জামাই সন্ধ্যা ডাল খাওয়ায়া ছিল।",
+    "original_id": 270,
+    "video_id": 29212
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00271.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29217\\REC_CS_S29217_U19_20231108_1699423333791.mp4",
+    "sentence": "বাবা সন্ধ্যায় শাক-সব্জী খান না।",
+    "gloss": "বাবা সন্ধ্যা শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 271,
+    "video_id": 29217
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00272.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29218\\REC_CS_S29218_U19_20231108_1699423350935.mp4",
+    "sentence": "বাবা রাতে শাক-সব্জী খান না।",
+    "gloss": "বাবা রাত শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 272,
+    "video_id": 29218
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00273.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28793\\REC_CS_S28793_U19_20231107_1699329223892.mp4",
+    "sentence": "বাবা রাতে শাক-সব্জী খায়নি।",
+    "gloss": "বাবা রাত শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 273,
+    "video_id": 29223
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00274.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29229\\REC_CS_S29229_U19_20231108_1699423602040.mp4",
+    "sentence": "বাবা সকালে শাক-সব্জী খেতেন।",
+    "gloss": "বাবা আগে সকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 274,
+    "video_id": 29229
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00275.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29230\\REC_CS_S29230_U19_20231108_1699423620849.mp4",
+    "sentence": "বাবা দুপুরে শাক-সব্জী খেতেন।",
+    "gloss": "বাবা আগে দুপুর শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 275,
+    "video_id": 29230
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00276.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29233\\REC_CS_S29233_U19_20231108_1699423680236.mp4",
+    "sentence": "বাবা রাতে শাক-সব্জী খেতেন।",
+    "gloss": "বাবা আগে রাত শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 276,
+    "video_id": 29233
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00277.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29238\\REC_CS_S29238_U19_20231108_1699423855014.mp4",
+    "sentence": "বাবা রাতে শাক-সব্জী খেতেন না।",
+    "gloss": "বাবা আগে রাত শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 277,
+    "video_id": 29238
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00278.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29240\\REC_CS_S29240_U19_20231108_1699423903545.mp4",
+    "sentence": "বাবা দুপুরে শাক-সব্জী খাবে।",
+    "gloss": "বাবা দুপুর শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 278,
+    "video_id": 29240
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00279.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29242\\REC_CS_S29242_U19_20231108_1699423940220.mp4",
+    "sentence": "বাবা সন্ধ্যায় শাক-সব্জী খাবে।",
+    "gloss": "বাবা সন্ধ্যা শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 279,
+    "video_id": 29242
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00280.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28103\\REC_CS_S28103_U4_20231017_1697539292442.mp4",
+    "sentence": "বাবা সকালে শাক-সব্জী খেয়েছে।",
+    "gloss": "বাবা সকাল শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 280,
+    "video_id": 29244
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00281.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29245\\REC_CS_S29245_U19_20231108_1699423997135.mp4",
+    "sentence": "বাবা দুপুরে শাক-সব্জী খেয়েছে।",
+    "gloss": "বাবা দুপুর শাক-সব্জী খাওয়ায়া হয়েছে ।",
+    "original_id": 281,
+    "video_id": 29245
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00282.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28248\\REC_CS_S28248_U19_20231105_1699162924651.mp4",
+    "sentence": "বাবা বিকালে শাক-সব্জী খেয়েছে।",
+    "gloss": "বাবা বিকাল শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 282,
+    "video_id": 29246
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00283.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29247\\REC_CS_S29247_U19_20231108_1699424034111.mp4",
+    "sentence": "বাবা সন্ধ্যায় শাক-সব্জী খেয়েছে।",
+    "gloss": "বাবা সন্ধ্যা শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 283,
+    "video_id": 29247
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00284.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29248\\REC_CS_S29248_U19_20231108_1699424057086.mp4",
+    "sentence": "বাবা রাতে শাক-সব্জী খেয়েছে।",
+    "gloss": "বাবা রাত শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 284,
+    "video_id": 29248
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00285.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28940\\REC_CS_S28940_U4_20231018_1697629250102.mp4",
+    "sentence": "বাবা দুপুরে শাক-সব্জী খেয়েছিল।",
+    "gloss": "বাবা দুপুর শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 285,
+    "video_id": 29250
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00286.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29251\\REC_CS_S29251_U19_20231108_1699424110631.mp4",
+    "sentence": "বাবা বিকালে শাক-সব্জী খেয়েছিল।",
+    "gloss": "বাবা বিকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 286,
+    "video_id": 29251
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00287.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29253\\REC_CS_S29253_U19_20231108_1699424147258.mp4",
+    "sentence": "বাবা রাতে শাক-সব্জী খেয়েছিল।",
+    "gloss": "বাবা রাত শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 287,
+    "video_id": 29253
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00288.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29259\\REC_CS_S29259_U19_20231108_1699424308333.mp4",
+    "sentence": "মা সকালে শাক-সব্জী খায়নি।",
+    "gloss": "মা সকাল শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 288,
+    "video_id": 29259
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00289.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29263\\REC_CS_S29263_U19_20231108_1699424375849.mp4",
+    "sentence": "মা রাতে শাক-সব্জী খায়নি।",
+    "gloss": "মা রাত শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 289,
+    "video_id": 29263
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00290.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29270\\REC_CS_S29270_U19_20231108_1699424543080.mp4",
+    "sentence": "মা দুপুরে শাক-সব্জী খেতেন।",
+    "gloss": "মা আগে দুপুর শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 290,
+    "video_id": 29270
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00291.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29279\\REC_CS_S29279_U19_20231108_1699424757830.mp4",
+    "sentence": "মা সকালে শাক-সব্জী খাবে।",
+    "gloss": "মা সকাল শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 291,
+    "video_id": 29279
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00292.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29281\\REC_CS_S29281_U19_20231108_1699424807382.mp4",
+    "sentence": "মা বিকালে শাক-সব্জী খাবে।",
+    "gloss": "মা বিকাল শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 292,
+    "video_id": 29281
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00293.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29282\\REC_CS_S29282_U19_20231108_1699424828364.mp4",
+    "sentence": "মা সন্ধ্যায় শাক-সব্জী খাবে।",
+    "gloss": "মা সন্ধ্যা শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 293,
+    "video_id": 29282
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00294.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29285\\REC_CS_S29285_U19_20231108_1699424892580.mp4",
+    "sentence": "মা দুপুরে শাক-সব্জী খেয়েছে।",
+    "gloss": "মা দুপুর শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 294,
+    "video_id": 29285
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00295.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29286\\REC_CS_S29286_U19_20231108_1699424908716.mp4",
+    "sentence": "মা বিকালে শাক-সব্জী খেয়েছে।",
+    "gloss": "মা বিকাল শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 295,
+    "video_id": 29286
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00296.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29287\\REC_CS_S29287_U19_20231108_1699424925657.mp4",
+    "sentence": "মা সন্ধ্যায় শাক-সব্জী খেয়েছে।",
+    "gloss": "মা সন্ধ্যা শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 296,
+    "video_id": 29287
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00297.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29288\\REC_CS_S29288_U19_20231108_1699424945756.mp4",
+    "sentence": "মা রাতে শাক-সব্জী খেয়েছে।",
+    "gloss": "মা রাত শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 297,
+    "video_id": 29288
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00298.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28941\\REC_CS_S28941_U4_20231018_1697629293517.mp4",
+    "sentence": "মা রাতে শাক-সব্জী খেয়েছিল।",
+    "gloss": "মা রাত শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 298,
+    "video_id": 29293
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00299.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29295\\REC_CS_S29295_U19_20231108_1699426736505.mp4",
+    "sentence": "দাদা দুপুরে শাক-সব্জী খান না।",
+    "gloss": "দাদা দুপুর শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 299,
+    "video_id": 29295
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00300.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29301\\REC_CS_S29301_U19_20231108_1699426863043.mp4",
+    "sentence": "দাদা বিকালে শাক-সব্জী খায়নি।",
+    "gloss": "দাদা বিকাল শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 300,
+    "video_id": 29301
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00301.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29305\\REC_CS_S29305_U19_20231108_1699426950522.mp4",
+    "sentence": "দাদা দুপুরে শাক-সব্জী খাবে না।",
+    "gloss": "দাদা দুপুর শাক-সব্জী খাওয়ায়া হবে না।",
+    "original_id": 301,
+    "video_id": 29305
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00302.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29308\\REC_CS_S29308_U19_20231108_1699427009082.mp4",
+    "sentence": "দাদা রাতে শাক-সব্জী খাবে না।",
+    "gloss": "দাদা রাত শাক-সব্জী খাওয়ায়া হবে না।",
+    "original_id": 302,
+    "video_id": 29308
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00303.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28049\\REC_CS_S28049_U4_20231017_1697537293098.mp4",
+    "sentence": "দাদা সকালে শাক-সব্জী খেতেন।",
+    "gloss": "দাদা আগে সকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 303,
+    "video_id": 29309
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00304.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28797\\REC_CS_S28797_U19_20231107_1699329313647.mp4",
+    "sentence": "দাদা রাতে শাক-সব্জী খেতেন।",
+    "gloss": "দাদা আগে রাত শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 304,
+    "video_id": 29313
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00305.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29317\\REC_CS_S29317_U19_20231108_1699427207632.mp4",
+    "sentence": "দাদা সন্ধ্যায় শাক-সব্জী খেতেন না।",
+    "gloss": "দাদা আগে সন্ধ্যা শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 305,
+    "video_id": 29317
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00306.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29319\\REC_CS_S29319_U19_20231108_1699427247026.mp4",
+    "sentence": "দাদা সকালে শাক-সব্জী খাবে।",
+    "gloss": "দাদা সকাল শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 306,
+    "video_id": 29319
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00307.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29320\\REC_CS_S29320_U19_20231108_1699427271327.mp4",
+    "sentence": "দাদা দুপুরে শাক-সব্জী খাবে।",
+    "gloss": "দাদা দুপুর শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 307,
+    "video_id": 29320
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00308.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29321\\REC_CS_S29321_U19_20231108_1699427294408.mp4",
+    "sentence": "দাদা বিকালে শাক-সব্জী খাবে।",
+    "gloss": "দাদা বিকাল শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 308,
+    "video_id": 29321
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00309.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29322\\REC_CS_S29322_U19_20231108_1699427310725.mp4",
+    "sentence": "দাদা সন্ধ্যায় শাক-সব্জী খাবে।",
+    "gloss": "দাদা সন্ধ্যা শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 309,
+    "video_id": 29322
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00310.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29325\\REC_CS_S29325_U19_20231108_1699427376400.mp4",
+    "sentence": "দাদা দুপুরে শাক-সব্জী খেয়েছে।",
+    "gloss": "দাদা দুপুর শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 310,
+    "video_id": 29325
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00311.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29326\\REC_CS_S29326_U19_20231108_1699427392959.mp4",
+    "sentence": "দাদা বিকালে শাক-সব্জী খেয়েছে।",
+    "gloss": "দাদা বিকাল শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 311,
+    "video_id": 29326
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00312.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27951\\REC_CS_S27951_U6_20231023_1698064293284.mp4",
+    "sentence": "দাদা রাতে শাক-সব্জী খেয়েছে।",
+    "gloss": "দাদা রাত শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 312,
+    "video_id": 29328
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00313.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29332\\REC_CS_S29332_U19_20231108_1699427514232.mp4",
+    "sentence": "দাদা সন্ধ্যায় শাক-সব্জী খেয়েছিল।",
+    "gloss": "দাদা সন্ধ্যা শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 313,
+    "video_id": 29332
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00314.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28944\\REC_CS_S28944_U4_20231018_1697629333809.mp4",
+    "sentence": "দাদা রাতে শাক-সব্জী খেয়েছিল।",
+    "gloss": "দাদা রাত শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 314,
+    "video_id": 29333
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00315.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29343\\REC_CS_S29343_U19_20231108_1699427740478.mp4",
+    "sentence": "দাদী রাতে শাক-সব্জী খায়নি।",
+    "gloss": "দাদি রাত শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 315,
+    "video_id": 29343
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00316.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29345\\REC_CS_S29345_U19_20231108_1699427780621.mp4",
+    "sentence": "দাদী দুপুরে শাক-সব্জী খাবে না।",
+    "gloss": "দাদি দুপুর শাক-সব্জী খাওয়ায়া হবে না।",
+    "original_id": 316,
+    "video_id": 29345
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00317.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29360\\REC_CS_S29360_U19_20231108_1699428088659.mp4",
+    "sentence": "দাদী দুপুরে শাক-সব্জী খাবে।",
+    "gloss": "দাদি দুপুর শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 317,
+    "video_id": 29360
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00318.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29364\\REC_CS_S29364_U19_20231108_1699431947077.mp4",
+    "sentence": "দাদী সকালে শাক-সব্জী খেয়েছে।",
+    "gloss": "দাদি সকাল শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 318,
+    "video_id": 29364
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00319.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29367\\REC_CS_S29367_U19_20231108_1699432043176.mp4",
+    "sentence": "দাদী সন্ধ্যায় শাক-সব্জী খেয়েছে।",
+    "gloss": "দাদি সন্ধ্যা শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 319,
+    "video_id": 29367
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00320.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29372\\REC_CS_S29372_U19_20231108_1699432149836.mp4",
+    "sentence": "দাদী সন্ধ্যায় শাক-সব্জী খেয়েছিল।",
+    "gloss": "দাদি সন্ধ্যা শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 320,
+    "video_id": 29372
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00321.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29373\\REC_CS_S29373_U19_20231108_1699432176713.mp4",
+    "sentence": "দাদী রাতে শাক-সব্জী খেয়েছিল।",
+    "gloss": "দাদি রাত শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 321,
+    "video_id": 29373
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00322.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27936\\REC_CS_S27936_U7_20231021_1697864293762.mp4",
+    "sentence": "চাচা বিকালে শাক-সব্জী খান না।",
+    "gloss": "চাচা বিকাল শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 322,
+    "video_id": 29376
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00323.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29379\\REC_CS_S29379_U19_20231108_1699432305600.mp4",
+    "sentence": "চাচা সকালে শাক-সব্জী খায়নি।",
+    "gloss": "চাচা সকাল শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 323,
+    "video_id": 29379
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00324.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28502\\REC_CS_S28502_U7_20231022_1697962938033.mp4",
+    "sentence": "চাচা দুপুরে শাক-সব্জী খায়নি।",
+    "gloss": "চাচা দুপুর শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 324,
+    "video_id": 29380
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00325.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29383\\REC_CS_S29383_U19_20231108_1699432405717.mp4",
+    "sentence": "চাচা রাতে শাক-সব্জী খায়নি।",
+    "gloss": "চাচা রাত শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 325,
+    "video_id": 29383
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00326.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29399\\REC_CS_S29399_U19_20231108_1699432822768.mp4",
+    "sentence": "চাচা সকালে শাক-সব্জী খাবে।",
+    "gloss": "চাচা সকাল শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 326,
+    "video_id": 29399
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00327.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29401\\REC_CS_S29401_U19_20231108_1699432855830.mp4",
+    "sentence": "চাচা বিকালে শাক-সব্জী খাবে।",
+    "gloss": "চাচা বিকাল শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 327,
+    "video_id": 29401
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00328.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27991\\REC_CS_S27991_U5_20231021_1697888829402.mp4",
+    "sentence": "চাচা সন্ধ্যায় শাক-সব্জী খাবে।",
+    "gloss": "চাচা সন্ধ্যা শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 328,
+    "video_id": 29402
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00329.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28435\\REC_CS_S28435_U6_20231025_1698242940305.mp4",
+    "sentence": "চাচা রাতে শাক-সব্জী খাবে।",
+    "gloss": "চাচা রাত শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 329,
+    "video_id": 29403
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00330.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29404\\REC_CS_S29404_U19_20231108_1699432944724.mp4",
+    "sentence": "চাচা সকালে শাক-সব্জী খেয়েছে।",
+    "gloss": "চাচা সকাল শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 330,
+    "video_id": 29404
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00331.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29244\\REC_CS_S29244_U7_20231026_1698294051002.mp4",
+    "sentence": "চাচা দুপুরে শাক-সব্জী খেয়েছে।",
+    "gloss": "চাচা দুপুর শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 331,
+    "video_id": 29405
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00332.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29406\\REC_CS_S29406_U19_20231108_1699432985388.mp4",
+    "sentence": "চাচা বিকালে শাক-সব্জী খেয়েছে।",
+    "gloss": "চাচা বিকাল শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 332,
+    "video_id": 29406
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00333.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29408\\REC_CS_S29408_U19_20231108_1699433029017.mp4",
+    "sentence": "চাচা রাতে শাক-সব্জী খেয়েছে।",
+    "gloss": "চাচা রাত শাক-সব্জী খাওয়ায়া হয়েছে।",
+    "original_id": 333,
+    "video_id": 29408
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00334.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29246\\REC_CS_S29246_U7_20231026_1698294093396.mp4",
+    "sentence": "চাচা সকালে শাক-সব্জী খেয়েছিল।",
+    "gloss": "চাচা সকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 334,
+    "video_id": 29409
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00335.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29410\\REC_CS_S29410_U19_20231108_1699433077764.mp4",
+    "sentence": "চাচা দুপুরে শাক-সব্জী খেয়েছিল।",
+    "gloss": "চাচা দুপুর শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 335,
+    "video_id": 29410
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00336.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28801\\REC_CS_S28801_U19_20231107_1699329411943.mp4",
+    "sentence": "চাচা বিকালে শাক-সব্জী খেয়েছিল।",
+    "gloss": "চাচা বিকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 336,
+    "video_id": 29411
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00337.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29267\\REC_CS_S29267_U6_20231031_1698729412850.mp4",
+    "sentence": "চাচা সন্ধ্যায় শাক-সব্জী খেয়েছিল।",
+    "gloss": "চাচা সন্ধ্যা শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 337,
+    "video_id": 29412
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00338.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28857\\REC_CS_S28857_U4_20231018_1697622941375.mp4",
+    "sentence": "চাচা রাতে শাক-সব্জী খেয়েছিল।",
+    "gloss": "চাচা রাত শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 338,
+    "video_id": 29413
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00339.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29414\\REC_CS_S29414_U19_20231108_1699433173899.mp4",
+    "sentence": "চাচী সকালে শাক-সব্জী খান না।",
+    "gloss": "চাচা বউ সকাল শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 339,
+    "video_id": 29414
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00340.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28127\\REC_CS_S28127_U19_20231104_1699112294156.mp4",
+    "sentence": "চাচী দুপুরে শাক-সব্জী খান না।",
+    "gloss": "চাচা বউ দুপুর শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 340,
+    "video_id": 29415
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00341.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28573\\REC_CS_S28573_U5_20231023_1698062941793.mp4",
+    "sentence": "চাচী সন্ধ্যায় শাক-সব্জী খান না।",
+    "gloss": "চাচা বউ সন্ধ্যা শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 341,
+    "video_id": 29417
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00342.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29420\\REC_CS_S29420_U19_20231108_1699433333630.mp4",
+    "sentence": "চাচী দুপুরে শাক-সব্জী খায়নি।",
+    "gloss": "চাচা বউ দুপুর শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 342,
+    "video_id": 29420
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00343.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25807\\REC_CS_S25807_U19_20231019_1697713294387.mp4",
+    "sentence": "চাচী রাতে শাক-সব্জী খেতেন না।",
+    "gloss": "চাচা বউ আগে রাত শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 343,
+    "video_id": 29438
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00344.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29256\\REC_CS_S29256_U7_20231026_1698294415886.mp4",
+    "sentence": "চাচী বিকালে শাক-সব্জী খাবে।",
+    "gloss": "চাচা বউ বিকাল শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 344,
+    "video_id": 29441
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00345.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29442\\REC_CS_S29442_U19_20231111_1699679456145.mp4",
+    "sentence": "চাচী সন্ধ্যায় শাক-সব্জী খাবে।",
+    "gloss": "চাচা বউ সন্ধ্যা শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 345,
+    "video_id": 29442
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00346.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29257\\REC_CS_S29257_U7_20231026_1698294434611.mp4",
+    "sentence": "চাচী রাতে শাক-সব্জী খাবে।",
+    "gloss": "চাচা বউ রাত শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 346,
+    "video_id": 29443
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00347.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29261\\REC_CS_S29261_U7_20231026_1698294512959.mp4",
+    "sentence": "চাচী বিকালে শাক-সব্জী খেয়েছিল।",
+    "gloss": "চাচা বউ বিকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 347,
+    "video_id": 29451
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00348.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29452\\REC_CS_S29452_U19_20231111_1699679671569.mp4",
+    "sentence": "চাচী সন্ধ্যায় শাক-সব্জী খেয়েছিল।",
+    "gloss": "চাচা বউ সন্ধ্যা শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 348,
+    "video_id": 29452
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00349.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29264\\REC_CS_S29264_U7_20231026_1698294572658.mp4",
+    "sentence": "খালা সন্ধ্যায় শাক-সব্জী খান না।",
+    "gloss": "খালা সন্ধ্যা শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 349,
+    "video_id": 29457
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00350.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29489\\REC_CS_S29489_U19_20231111_1699680500251.mp4",
+    "sentence": "খালা সকালে শাক-সব্জী খেয়েছিল।",
+    "gloss": "খালা সকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 350,
+    "video_id": 29489
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00351.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29279\\REC_CS_S29279_U7_20231026_1698294907999.mp4",
+    "sentence": "খালা দুপুরে শাক-সব্জী খেয়েছিল।",
+    "gloss": "খালা দুপুর শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 351,
+    "video_id": 29490
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00352.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29491\\REC_CS_S29491_U19_20231111_1699680539346.mp4",
+    "sentence": "খালা বিকালে শাক-সব্জী খেয়েছিল।",
+    "gloss": "খালা বিকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 352,
+    "video_id": 29491
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00353.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29280\\REC_CS_S29280_U7_20231026_1698294926933.mp4",
+    "sentence": "খালা সন্ধ্যায় শাক-সব্জী খেয়েছিল।",
+    "gloss": "খালা সন্ধ্যা শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 353,
+    "video_id": 29492
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00354.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29271\\REC_CS_S29271_U6_20231031_1698729513498.mp4",
+    "sentence": "খালু রাতে শাক-সব্জী খেতেন।",
+    "gloss": "খালা জামাই রাত শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 354,
+    "video_id": 29513
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00355.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27946\\REC_CS_S27946_U7_20231021_1697864729519.mp4",
+    "sentence": "খালু সকালে শাক-সব্জী খাবে।",
+    "gloss": "খালা জামাই সকাল শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 355,
+    "video_id": 29519
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00356.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29520\\REC_CS_S29520_U19_20231111_1699681244768.mp4",
+    "sentence": "খালু দুপুরে শাক-সব্জী খাবে।",
+    "gloss": "খালা জামাই দুপুর শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 356,
+    "video_id": 29520
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00357.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28809\\REC_CS_S28809_U19_20231107_1699329521036.mp4",
+    "sentence": "খালু বিকালে শাক-সব্জী খাবে।",
+    "gloss": "খালা জামাই বিকাল শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 357,
+    "video_id": 29521
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00358.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28675\\REC_CS_S28675_U7_20231023_1698040629522.mp4",
+    "sentence": "খালু সন্ধ্যায় শাক-সব্জী খাবে।",
+    "gloss": "খালা জামাই সন্ধ্যা শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 358,
+    "video_id": 29522
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00359.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29294\\REC_CS_S29294_U7_20231026_1698295232197.mp4",
+    "sentence": "খালু রাতে শাক-সব্জী খাবে।",
+    "gloss": "খালা জামাই রাত শাক-সব্জী খাওয়ায়া হবে।",
+    "original_id": 359,
+    "video_id": 29523
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00360.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29529\\REC_CS_S29529_U19_20231111_1699681533254.mp4",
+    "sentence": "খালু সকালে শাক-সব্জী খেয়েছিল।",
+    "gloss": "খালা জামাই সকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 360,
+    "video_id": 29529
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00361.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29538\\REC_CS_S29538_U19_20231111_1699681674259.mp4",
+    "sentence": "বাবা রাতে ফল খান না।",
+    "gloss": "বাবা রাত ফল খাওয়ায়া না।",
+    "original_id": 361,
+    "video_id": 29538
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00362.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28954\\REC_CS_S28954_U4_20231018_1697629559915.mp4",
+    "sentence": "বাবা সকালে ফল খাবে।",
+    "gloss": "বাবা সকাল ফল খাওয়ায়া হবে।",
+    "original_id": 362,
+    "video_id": 29559
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00363.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29308\\REC_CS_S29308_U7_20231026_1698295608972.mp4",
+    "sentence": "বাবা দুপুরে ফল খাবে।",
+    "gloss": "বাবা দুপুর ফল খাওয়ায়া হবে।",
+    "original_id": 363,
+    "video_id": 29560
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00364.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29561\\REC_CS_S29561_U19_20231111_1699682162108.mp4",
+    "sentence": "বাবা বিকালে ফল খাবে।",
+    "gloss": "বাবা বিকাল ফল খাওয়ায়া হবে।",
+    "original_id": 364,
+    "video_id": 29561
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00365.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29562\\REC_CS_S29562_U19_20231111_1699682173750.mp4",
+    "sentence": "বাবা সন্ধ্যায় ফল খাবে।",
+    "gloss": "বাবা সন্ধ্যা ফল খাওয়ায়া হবে।",
+    "original_id": 365,
+    "video_id": 29562
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00366.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29132\\REC_CS_S29132_U7_20231025_1698215929563.mp4",
+    "sentence": "বাবা রাতে ফল খাবে।",
+    "gloss": "বাবা রাত ফল খাওয়ায়া হবে।",
+    "original_id": 366,
+    "video_id": 29563
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00367.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29273\\REC_CS_S29273_U6_20231031_1698729569760.mp4",
+    "sentence": "বাবা সকালে ফল খেয়েছিল।",
+    "gloss": "বাবা সকাল ফল খাওয়ায়া ছিল।",
+    "original_id": 367,
+    "video_id": 29569
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00368.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28093\\REC_CS_S28093_U6_20231023_1698068829599.mp4",
+    "sentence": "মা সকালে ফল খাবে।",
+    "gloss": "মা সকাল ফল খাওয়ায়া হবে।",
+    "original_id": 368,
+    "video_id": 29599
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00369.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29600\\REC_CS_S29600_U19_20231111_1699686243775.mp4",
+    "sentence": "মা দুপুরে ফল খাবে।",
+    "gloss": "মা দুপুর ফল খাওয়ায়া হবে",
+    "original_id": 369,
+    "video_id": 29600
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00370.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28883\\REC_CS_S28883_U7_20231025_1698204296010.mp4",
+    "sentence": "মা বিকালে ফল খাবে।",
+    "gloss": "মা বিকাল ফল খাওয়ায়া হবে।",
+    "original_id": 370,
+    "video_id": 29601
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00371.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29274\\REC_CS_S29274_U6_20231031_1698729602941.mp4",
+    "sentence": "মা সন্ধ্যায় ফল খাবে।",
+    "gloss": "মা সন্ধ্যা ফল খাওয়ায়া হবে।",
+    "original_id": 371,
+    "video_id": 29602
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00372.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29155\\REC_CS_S29155_U5_20231026_1698296030913.mp4",
+    "sentence": "মা রাতে ফল খাবে।",
+    "gloss": "মা রাত ফল খাওয়ায়া হবে।",
+    "original_id": 372,
+    "video_id": 29603
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00373.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29352\\REC_CS_S29352_U19_20231108_1699427929604.mp4",
+    "sentence": "মা সকালে ফল খেয়েছে।",
+    "gloss": "মা সকাল ফল খাওয়ায়া হয়েছে।",
+    "original_id": 373,
+    "video_id": 29604
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00374.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29605\\REC_CS_S29605_U19_20231111_1699686311834.mp4",
+    "sentence": "মা দুপুরে ফল খেয়েছে।",
+    "gloss": "মা দুপুর ফল খাওয়ায়া হয়েছে।",
+    "original_id": 374,
+    "video_id": 29605
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00375.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28958\\REC_CS_S28958_U4_20231018_1697629607280.mp4",
+    "sentence": "মা সন্ধ্যায় ফল খেয়েছে।",
+    "gloss": "মা সন্ধ্যা ফল খাওয়ায়া হয়েছে।",
+    "original_id": 375,
+    "video_id": 29607
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00376.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29418\\REC_CS_S29418_U6_20231031_1698734296083.mp4",
+    "sentence": "মা রাতে ফল খেয়েছে।",
+    "gloss": "মা রাত ফল খাওয়ায়া হয়েছে।",
+    "original_id": 376,
+    "video_id": 29608
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00377.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28814\\REC_CS_S28814_U19_20231107_1699329613395.mp4",
+    "sentence": "মা রাতে ফল খেয়েছিল।",
+    "gloss": "মা রাত ফল খাওয়ায়া ছিল।",
+    "original_id": 377,
+    "video_id": 29613
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00378.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29159\\REC_CS_S29159_U5_20231026_1698296162725.mp4",
+    "sentence": "দাদা বিকালে ফল খান না।",
+    "gloss": "দাদা বিকাল ফল খাওয়ায়া না।",
+    "original_id": 378,
+    "video_id": 29616
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00379.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29160\\REC_CS_S29160_U5_20231026_1698296178118.mp4",
+    "sentence": "দাদা সন্ধ্যায় ফল খান না।",
+    "gloss": "দাদা সন্ধ্যা ফল খাওয়ায়া না।",
+    "original_id": 379,
+    "video_id": 29617
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00380.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28959\\REC_CS_S28959_U4_20231018_1697629621591.mp4",
+    "sentence": "দাদা বিকালে ফল খায়নি।",
+    "gloss": "দাদা বিকাল ফল খাওয়ায়া নেই।",
+    "original_id": 380,
+    "video_id": 29621
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00381.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29624\\REC_CS_S29624_U19_20231111_1699686565530.mp4",
+    "sentence": "দাদা সকালে ফল খাবে না।",
+    "gloss": "দাদা সকাল ফল খাওয়ায়া হবে না।",
+    "original_id": 381,
+    "video_id": 29624
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00382.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28815\\REC_CS_S28815_U19_20231107_1699329639677.mp4",
+    "sentence": "দাদা সকালে ফল খাবে।",
+    "gloss": "দাদা সকাল ফল খাওয়ায়া হবে।",
+    "original_id": 382,
+    "video_id": 29639
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00383.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29640\\REC_CS_S29640_U19_20231111_1699686817207.mp4",
+    "sentence": "দাদা দুপুরে ফল খাবে।",
+    "gloss": "দাদা দুপুর ফল খাওয়ায়া হবে।",
+    "original_id": 383,
+    "video_id": 29640
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00384.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29457\\REC_CS_S29457_U7_20231026_1698302829641.mp4",
+    "sentence": "দাদা বিকালে ফল খাবে।",
+    "gloss": "দাদা বিকাল ফল খাওয়ায়া হবে।",
+    "original_id": 384,
+    "video_id": 29641
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00385.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28598\\REC_CS_S28598_U7_20231023_1698036296428.mp4",
+    "sentence": "দাদা সন্ধ্যায় ফল খাবে।",
+    "gloss": "দাদা সন্ধ্যা ফল খাওয়ায়া হবে।",
+    "original_id": 385,
+    "video_id": 29642
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00386.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29643\\REC_CS_S29643_U19_20231111_1699686864091.mp4",
+    "sentence": "দাদা রাতে ফল খাবে।",
+    "gloss": "দাদা রাত ফল খাওয়ায়া হবে।",
+    "original_id": 386,
+    "video_id": 29643
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00387.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29648\\REC_CS_S29648_U19_20231111_1699687216074.mp4",
+    "sentence": "দাদা রাতে ফল খেয়েছে।",
+    "gloss": "দাদা রাত ফল খাওয়ায়া হয়েছে।",
+    "original_id": 387,
+    "video_id": 29648
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00388.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29666\\REC_CS_S29666_U19_20231111_1699689874937.mp4",
+    "sentence": "দাদী বিকালে ফল খাবে না।",
+    "gloss": "দাদি বিকাল ফল খাওয়ায়া হবে না।",
+    "original_id": 388,
+    "video_id": 29666
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00389.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28813\\REC_CS_S28813_U7_20231023_1698051296680.mp4",
+    "sentence": "দাদী রাতে ফল খাবে না।",
+    "gloss": "দাদি রাত ফল খাওয়ায়া হবে না।",
+    "original_id": 389,
+    "video_id": 29668
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00390.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29679\\REC_CS_S29679_U19_20231111_1699690142405.mp4",
+    "sentence": "দাদী সকালে ফল খাবে।",
+    "gloss": "দাদি সকাল ফল খাওয়ায়া হবে।",
+    "original_id": 390,
+    "video_id": 29679
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00391.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28075\\REC_CS_S28075_U5_20231021_1697893296817.mp4",
+    "sentence": "দাদী বিকালে ফল খাবে।",
+    "gloss": "দাদি বিকাল ফল খাওয়ায়া হবে।",
+    "original_id": 391,
+    "video_id": 29681
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00392.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29682\\REC_CS_S29682_U19_20231111_1699690176180.mp4",
+    "sentence": "দাদী সন্ধ্যায় ফল খাবে।",
+    "gloss": "দাদি সন্ধ্যা ফল খাওয়ায়া হবে।",
+    "original_id": 392,
+    "video_id": 29682
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00393.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29683\\REC_CS_S29683_U19_20231111_1699690187385.mp4",
+    "sentence": "দাদী রাতে ফল খাবে।",
+    "gloss": "দাদি রাত ফল খাওয়ায়া হবে।",
+    "original_id": 393,
+    "video_id": 29683
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00394.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29719\\REC_CS_S29719_U19_20231111_1699691004763.mp4",
+    "sentence": "চাচা সকালে ফল খাবে।",
+    "gloss": "চাচা সকাল ফল খাওয়ায়া হবে।",
+    "original_id": 394,
+    "video_id": 29719
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00395.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29720\\REC_CS_S29720_U19_20231111_1699691016165.mp4",
+    "sentence": "চাচা দুপুরে ফল খাবে।",
+    "gloss": "চাচা দুপুর ফল খাওয়ায়া হবে।",
+    "original_id": 395,
+    "video_id": 29720
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00396.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28437\\REC_CS_S28437_U6_20231025_1698242972120.mp4",
+    "sentence": "চাচা বিকালে ফল খাবে।",
+    "gloss": "চাচা বিকাল ফল খাওয়ায়া হবে।",
+    "original_id": 396,
+    "video_id": 29721
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00397.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29722\\REC_CS_S29722_U19_20231111_1699691037290.mp4",
+    "sentence": "চাচা সন্ধ্যায় ফল খাবে।",
+    "gloss": "চাচা সন্ধ্যা ফল খাওয়ায়া হবে।",
+    "original_id": 397,
+    "video_id": 29722
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00398.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29723\\REC_CS_S29723_U19_20231111_1699691048355.mp4",
+    "sentence": "চাচা রাতে ফল খাবে।",
+    "gloss": "চাচা রাত ফল খাওয়ায়া হবে।",
+    "original_id": 398,
+    "video_id": 29723
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00399.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28512\\REC_CS_S28512_U4_20231017_1697556729740.mp4",
+    "sentence": "চাচী দুপুরে ফল খায়নি।",
+    "gloss": "চাচা বউ দুপুর ফল খাওয়ায়া নেই।",
+    "original_id": 399,
+    "video_id": 29740
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00400.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29314\\REC_CS_S29314_U7_20231026_1698297434302.mp4",
+    "sentence": "চাচী রাতে ফল খায়নি।",
+    "gloss": "চাচা বউ রাত ফল খাওয়ায়া নেই।",
+    "original_id": 400,
+    "video_id": 29743
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00401.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29323\\REC_CS_S29323_U7_20231026_1698297599957.mp4",
+    "sentence": "চাচী সকালে ফল খাবে।",
+    "gloss": "চাচা বউ সকাল ফল খাওয়ায়া হবে।",
+    "original_id": 401,
+    "video_id": 29759
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00402.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29178\\REC_CS_S29178_U5_20231026_1698297601797.mp4",
+    "sentence": "চাচী দুপুরে ফল খাবে।",
+    "gloss": "চাচা বউ দুপুর ফল খাওয়ায়া হবে।",
+    "original_id": 402,
+    "video_id": 29760
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00403.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29761\\REC_CS_S29761_U19_20231111_1699691680360.mp4",
+    "sentence": "চাচী বিকালে ফল খাবে।",
+    "gloss": "চাচা বউ বিকাল ফল খাওয়ায়া হবে।",
+    "original_id": 403,
+    "video_id": 29761
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00404.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28461\\REC_CS_S28461_U5_20231023_1698058297624.mp4",
+    "sentence": "চাচী সন্ধ্যায় ফল খাবে।",
+    "gloss": "চাচা বউ সন্ধ্যা ফল খাওয়ায়া হবে।",
+    "original_id": 404,
+    "video_id": 29762
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00405.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29180\\REC_CS_S29180_U5_20231026_1698297637630.mp4",
+    "sentence": "চাচী রাতে ফল খাবে।",
+    "gloss": "চাচা বউ রাত ফল খাওয়ায়া হবে।",
+    "original_id": 405,
+    "video_id": 29763
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00406.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28825\\REC_CS_S28825_U19_20231107_1699329764137.mp4",
+    "sentence": "চাচী সকালে ফল খেয়েছে।",
+    "gloss": "চাচা বউ সকাল ফল খাওয়ায়া হয়েছে।",
+    "original_id": 406,
+    "video_id": 29764
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00407.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29181\\REC_CS_S29181_U5_20231026_1698297658947.mp4",
+    "sentence": "চাচী দুপুরে ফল খেয়েছে।",
+    "gloss": "চাচা বউ দুপুর ফল খাওয়ায়া হয়েছে।",
+    "original_id": 407,
+    "video_id": 29765
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00408.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28066\\REC_CS_S28066_U6_20231023_1698068297677.mp4",
+    "sentence": "চাচী সন্ধ্যায় ফল খেয়েছে।",
+    "gloss": "চাচা বউ সন্ধ্যা ফল খাওয়ায়া হয়েছে।",
+    "original_id": 408,
+    "video_id": 29767
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00409.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29331\\REC_CS_S29331_U7_20231026_1698297738452.mp4",
+    "sentence": "চাচী রাতে ফল খেয়েছিল।",
+    "gloss": "চাচা বউ রাত ফল খাওয়ায়া ছিল।",
+    "original_id": 409,
+    "video_id": 29773
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00410.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29094\\REC_CS_S29094_U19_20231108_1699417297798.mp4",
+    "sentence": "খালা সকালে ফল খায়নি।",
+    "gloss": "খালা সকাল ফল খাওয়ায়া নেই।",
+    "original_id": 410,
+    "video_id": 29779
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00411.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29334\\REC_CS_S29334_U7_20231026_1698297828138.mp4",
+    "sentence": "খালা সন্ধ্যায় ফল খায়নি।",
+    "gloss": "খালা সন্ধ্যা ফল খাওয়ায়া নেই।",
+    "original_id": 411,
+    "video_id": 29782
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00412.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28827\\REC_CS_S28827_U19_20231107_1699329788280.mp4",
+    "sentence": "খালা রাতে ফল খাবে না।",
+    "gloss": "খালা রাত ফল খাওয়ায়া হবে না।",
+    "original_id": 412,
+    "video_id": 29788
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00413.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28828\\REC_CS_S28828_U19_20231107_1699329799323.mp4",
+    "sentence": "খালা সকালে ফল খাবে।",
+    "gloss": "খালা সকাল ফল খাওয়ায়া হবে।",
+    "original_id": 413,
+    "video_id": 29799
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00414.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29345\\REC_CS_S29345_U7_20231026_1698298009059.mp4",
+    "sentence": "খালা দুপুরে ফল খাবে।",
+    "gloss": "খালা দুপুর ফল খাওয়ায়া হবে।",
+    "original_id": 414,
+    "video_id": 29800
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00415.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29196\\REC_CS_S29196_U5_20231026_1698298012913.mp4",
+    "sentence": "খালা বিকালে ফল খাবে।",
+    "gloss": "খালা বিকাল ফল খাওয়ায়া হবে।",
+    "original_id": 415,
+    "video_id": 29801
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00416.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29346\\REC_CS_S29346_U7_20231026_1698298023972.mp4",
+    "sentence": "খালা সন্ধ্যায় ফল খাবে।",
+    "gloss": "খালা সন্ধ্যা ফল খাওয়ায়া হবে।",
+    "original_id": 416,
+    "video_id": 29802
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00417.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27977\\REC_CS_S27977_U6_20231023_1698065129803.mp4",
+    "sentence": "খালা রাতে ফল খাবে।",
+    "gloss": "খালা রাত ফল খাওয়ায়া হবে।",
+    "original_id": 417,
+    "video_id": 29803
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00418.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29204\\REC_CS_S29204_U5_20231026_1698298155675.mp4",
+    "sentence": "খালু দুপুরে ফল খান না।",
+    "gloss": "খালা জামাই দুপুর ফল খাওয়ায়া না।",
+    "original_id": 418,
+    "video_id": 29815
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00419.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29213\\REC_CS_S29213_U5_20231026_1698298392976.mp4",
+    "sentence": "খালু সকালে ফল খাবে।",
+    "gloss": "খালা জামাই সকাল ফল খাওয়ায়া হবে।",
+    "original_id": 419,
+    "video_id": 29839
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00420.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29840\\REC_CS_S29840_U19_20231112_1699763288121.mp4",
+    "sentence": "খালু দুপুরে ফল খাবে।",
+    "gloss": "খালা জামাই দুপুর ফল খাওয়ায়া হবে।",
+    "original_id": 420,
+    "video_id": 29840
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00421.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29841\\REC_CS_S29841_U19_20231112_1699763301113.mp4",
+    "sentence": "খালু বিকালে ফল খাবে।",
+    "gloss": "খালা জামাই বিকাল ফল খাওয়ায়া হবে।",
+    "original_id": 421,
+    "video_id": 29841
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00422.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27983\\REC_CS_S27983_U4_20231017_1697535298423.mp4",
+    "sentence": "খালু সন্ধ্যায় ফল খাবে।",
+    "gloss": "খালা জামাই সন্ধ্যা ফল খাওয়ায়া হবে।",
+    "original_id": 422,
+    "video_id": 29842
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00423.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28832\\REC_CS_S28832_U19_20231107_1699329843276.mp4",
+    "sentence": "খালু রাতে ফল খাবে।",
+    "gloss": "খালা জামাই রাত ফল খাওয়ায়া হবে।",
+    "original_id": 423,
+    "video_id": 29843
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00424.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29847\\REC_CS_S29847_U19_20231112_1699763391553.mp4",
+    "sentence": "খালু সন্ধ্যায় ফল খেয়েছে।",
+    "gloss": "খালা জামাই সন্ধ্যা ফল খাওয়ায়া হয়েছে।",
+    "original_id": 424,
+    "video_id": 29847
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00425.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29848\\REC_CS_S29848_U19_20231112_1699763405555.mp4",
+    "sentence": "খালু রাতে ফল খেয়েছে।",
+    "gloss": "খালা জামাই রাত ফল খাওয়ায়া হয়েছে।",
+    "original_id": 425,
+    "video_id": 29848
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00426.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\18577\\UL_CS_S18577_U4_20230829_1693282919603.mp4",
+    "sentence": "খালু বিকালে ডাল খেতেন না।",
+    "gloss": "খালা জামাই আগে বিকাল ডাল খাওয়ায়া না।",
+    "original_id": 426,
+    "video_id": 29196
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00427.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\23511\\UL_CS_S23511_U19_20231010_1696931429197.mp4",
+    "sentence": "খালু সন্ধ্যায় ডাল খেতেন না।",
+    "gloss": "খালা জামাই আগে সন্ধ্যা ডাল খাওয়ায়া না।",
+    "original_id": 427,
+    "video_id": 29197
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00428.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29247\\REC_CS_S29247_U7_20231026_1698294216119.mp4",
+    "sentence": "চাচী বিকালে শাক-সব্জী খায়নি।",
+    "gloss": "চাচা বউ বিকাল শাক-সব্জী খাওয়ায়া নেই।",
+    "original_id": 428,
+    "video_id": 29421
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00429.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29429\\REC_CS_S29429_U19_20231111_1699679128991.mp4",
+    "sentence": "চাচী সকালে শাক-সব্জী খেতেন।",
+    "gloss": "চাচা বউ আগে সকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 429,
+    "video_id": 29429
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00430.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29251\\REC_CS_S29251_U7_20231026_1698294303586.mp4",
+    "sentence": "চাচী দুপুরে শাক-সব্জী খেতেন।",
+    "gloss": "চাচা বউ আগে দুপুর শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 430,
+    "video_id": 29430
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00431.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29268\\REC_CS_S29268_U6_20231031_1698729431127.mp4",
+    "sentence": "চাচী বিকালে শাক-সব্জী খেতেন।",
+    "gloss": "চাচা বউ আগে বিকাল শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 431,
+    "video_id": 29431
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00432.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29009\\REC_CS_S29009_U7_20231025_1698210294324.mp4",
+    "sentence": "চাচী সন্ধ্যায় শাক-সব্জী খেতেন।",
+    "gloss": "চাচা বউ আগে সন্ধ্যা শাক-সব্জী খাওয়ায়া ছিল।",
+    "original_id": 432,
+    "video_id": 29432
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00433.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28950\\REC_CS_S28950_U4_20231018_1697629434125.mp4",
+    "sentence": "চাচী সকালে শাক-সব্জী খেতেন না।",
+    "gloss": "চাচা বউ আগে সকাল শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 433,
+    "video_id": 29434
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00434.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29253\\REC_CS_S29253_U7_20231026_1698294350712.mp4",
+    "sentence": "চাচী দুপুরে শাক-সব্জী খেতেন না।",
+    "gloss": "চাচা বউ আগে দুপুর শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 434,
+    "video_id": 29435
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00435.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28249\\REC_CS_S28249_U19_20231105_1699162943698.mp4",
+    "sentence": "চাচী বিকালে শাক-সব্জী খেতেন না।",
+    "gloss": "চাচা বউ আগে বিকাল শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 435,
+    "video_id": 29436
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00436.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28803\\REC_CS_S28803_U19_20231107_1699329437175.mp4",
+    "sentence": "চাচী সন্ধ্যায় শাক-সব্জী খেতেন না।",
+    "gloss": "চাচা বউ আগে সন্ধ্যা শাক-সব্জী খাওয়ায়া না।",
+    "original_id": 436,
+    "video_id": 29437
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00437.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28668\\REC_CS_S28668_U4_20231018_1697608929751.mp4",
+    "sentence": "চাচী বিকালে ফল খেতেন।",
+    "gloss": "চাচা বউ আগে বিকাল ফল খাওয়ায়া ছিল।",
+    "original_id": 437,
+    "video_id": 29751
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00438.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\28390\\REC_CS_S28390_U5_20231022_1697987629827.mp4",
+    "sentence": "খালু সন্ধ্যায় ফল খাবে না।",
+    "gloss": "খালা জামাই সন্ধ্যা ফল খাওয়ায়া হবে না।",
+    "original_id": 438,
+    "video_id": 29827
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00439.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\29210\\REC_CS_S29210_U5_20231026_1698298281489.mp4",
+    "sentence": "খালু রাতে ফল খাবে না।",
+    "gloss": "খালা জামাই রাত ফল খাওয়ায়া হবে না।",
+    "original_id": 439,
+    "video_id": 29828
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00440.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\12419\\UL_CS_S12419_U19_20230706_1688653207413.mp4",
+    "sentence": "রাতে খেয়েছেন?",
+    "gloss": "রাত খাওয়ায়া হয়েছে ?",
+    "original_id": 440,
+    "video_id": 12419
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00441.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\18577\\UL_CS_S18577_U19_20230903_1693738585669.mp4",
+    "sentence": "সন্ধ্যায় চা খেয়েছি।",
+    "gloss": "সন্ধ্যা চা হয়েছে।",
+    "original_id": 441,
+    "video_id": 18577
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00442.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\19414\\UL_CS_S19414_U19_20230905_1693899483917.mp4",
+    "sentence": "দুপুরে কিছু খাব না।",
+    "gloss": "দুপুর খাওয়ায়া না।",
+    "original_id": 442,
+    "video_id": 19414
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00443.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25406\\REC_CS_S25406_U19_20231018_1697622680805.mp4",
+    "sentence": "সন্ধ্যায় চা খেয়েছি ।",
+    "gloss": "সন্ধ্যা চা হয়েছে।",
+    "original_id": 443,
+    "video_id": 25406
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00444.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25407\\REC_CS_S25407_U19_20231018_1697622799058.mp4",
+    "sentence": "সন্ধ্যায় কফি খেয়েছি।",
+    "gloss": "সন্ধ্যা কফি হয়েছে।",
+    "original_id": 444,
+    "video_id": 25407
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00445.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25408\\REC_CS_S25408_U19_20231018_1697622815233.mp4",
+    "sentence": "রাতে কফি খেয়ো না।",
+    "gloss": "রাত কফি না।",
+    "original_id": 445,
+    "video_id": 25408
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00446.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25411\\REC_CS_S25411_U19_20231018_1697623339122.mp4",
+    "sentence": "দুপুরে ডাল খাইনি।",
+    "gloss": "দুপুর ডাল খাওয়ায়া নেই।",
+    "original_id": 446,
+    "video_id": 25411
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00447.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25770\\REC_CS_S25770_U19_20231018_1697642401806.mp4",
+    "sentence": "বাবা মাংস খান না।",
+    "gloss": "বাবা মাংস খাওয়ায়া না।",
+    "original_id": 447,
+    "video_id": 25770
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00448.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25771\\REC_CS_S25771_U19_20231018_1697642413332.mp4",
+    "sentence": "মা মাংস খান না।",
+    "gloss": "মা মাংস খাওয়ায়া না।",
+    "original_id": 448,
+    "video_id": 25771
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00449.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25772\\REC_CS_S25772_U19_20231018_1697642430892.mp4",
+    "sentence": "দাদা মাংস খান না।",
+    "gloss": "দাদা মাংস খাওয়ায়া না।",
+    "original_id": 449,
+    "video_id": 25772
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00450.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25773\\REC_CS_S25773_U19_20231018_1697642446960.mp4",
+    "sentence": "দাদী মাংস খান না।",
+    "gloss": "দাদি মাংস খাওয়ায়া না।",
+    "original_id": 450,
+    "video_id": 25773
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00451.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25774\\REC_CS_S25774_U19_20231018_1697642466953.mp4",
+    "sentence": "চাচা মাংস খান না।",
+    "gloss": "চাচা মাংস খাওয়ায়া না।",
+    "original_id": 451,
+    "video_id": 25774
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00452.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25775\\REC_CS_S25775_U19_20231018_1697642479614.mp4",
+    "sentence": "চাচী মাংস খান না।",
+    "gloss": "চাচা বউ মাংস খাওয়ায়া না।",
+    "original_id": 452,
+    "video_id": 25775
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00453.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25776\\REC_CS_S25776_U19_20231018_1697642493476.mp4",
+    "sentence": "খালা মাংস খান না।",
+    "gloss": "খালা মাংস খাওয়ায়া না।",
+    "original_id": 453,
+    "video_id": 25776
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00454.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25777\\REC_CS_S25777_U19_20231018_1697642509819.mp4",
+    "sentence": "খালু মাংস খান না।",
+    "gloss": "খালা জামাই মাংস খাওয়ায়া না।",
+    "original_id": 454,
+    "video_id": 25777
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00455.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25790\\REC_CS_S25790_U19_20231018_1697642753625.mp4",
+    "sentence": "বাবা ডাল খান না।",
+    "gloss": "বাবা ডাল খাওয়ায়া না।",
+    "original_id": 455,
+    "video_id": 25790
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00456.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25791\\REC_CS_S25791_U19_20231018_1697642767406.mp4",
+    "sentence": "মা ডাল খান না।",
+    "gloss": "মা ডাল খাওয়ায়া না।",
+    "original_id": 456,
+    "video_id": 25791
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00457.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25792\\REC_CS_S25792_U19_20231018_1697642780918.mp4",
+    "sentence": "দাদা ডাল খান না।",
+    "gloss": "দাদা ডাল খাওয়ায়া না।",
+    "original_id": 457,
+    "video_id": 25792
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00458.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25793\\REC_CS_S25793_U19_20231018_1697642795722.mp4",
+    "sentence": "দাদী ডাল খান না।",
+    "gloss": "দাদি ডাল খাওয়ায়া না।",
+    "original_id": 458,
+    "video_id": 25793
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00459.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25794\\REC_CS_S25794_U19_20231018_1697642823835.mp4",
+    "sentence": "চাচা ডাল খান না।",
+    "gloss": "চাচা ডাল খাওয়ায়া না।",
+    "original_id": 459,
+    "video_id": 25794
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00460.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25795\\REC_CS_S25795_U19_20231018_1697642838979.mp4",
+    "sentence": "চাচী ডাল খান না।",
+    "gloss": "চাচা বউ ডাল খাওয়ায়া না।",
+    "original_id": 460,
+    "video_id": 25795
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00461.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25796\\REC_CS_S25796_U19_20231019_1697713140216.mp4",
+    "sentence": "খালা ডাল খান না।",
+    "gloss": "খালা ডাল খাওয়ায়া না।",
+    "original_id": 461,
+    "video_id": 25796
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00462.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25800\\REC_CS_S25800_U19_20231019_1697713209248.mp4",
+    "sentence": "বাবা চা খান না।",
+    "gloss": "বাবা চা না।",
+    "original_id": 462,
+    "video_id": 25800
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00463.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25801\\REC_CS_S25801_U19_20231019_1697713220224.mp4",
+    "sentence": "মা চা খান না।",
+    "gloss": "মা চা না।",
+    "original_id": 463,
+    "video_id": 25801
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00464.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25802\\REC_CS_S25802_U19_20231019_1697713231709.mp4",
+    "sentence": "দাদা চা খান না।",
+    "gloss": "দাদা চা না।",
+    "original_id": 464,
+    "video_id": 25802
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00465.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25803\\REC_CS_S25803_U19_20231019_1697713241685.mp4",
+    "sentence": "দাদী চা খান না।",
+    "gloss": "দাদি চা না।",
+    "original_id": 465,
+    "video_id": 25803
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00466.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25804\\REC_CS_S25804_U19_20231019_1697713253050.mp4",
+    "sentence": "চাচা চা খান না।",
+    "gloss": "চাচা চা না।",
+    "original_id": 466,
+    "video_id": 25804
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00467.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25805\\REC_CS_S25805_U19_20231019_1697713265724.mp4",
+    "sentence": "চাচী চা খান না।",
+    "gloss": "চাচা বউ চা না।",
+    "original_id": 467,
+    "video_id": 25805
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00468.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25806\\REC_CS_S25806_U19_20231019_1697713281046.mp4",
+    "sentence": "খালা চা খান না।",
+    "gloss": "খালা চা না।",
+    "original_id": 468,
+    "video_id": 25806
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00469.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25807\\REC_CS_S25807_U19_20231019_1697713294387.mp4",
+    "sentence": "খালু চা খান না।",
+    "gloss": "খালা জামাই চা না।",
+    "original_id": 469,
+    "video_id": 25807
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00470.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25810\\REC_CS_S25810_U19_20231019_1697713331272.mp4",
+    "sentence": "বাবা কফি খান না।",
+    "gloss": "বাবা কফি না।",
+    "original_id": 470,
+    "video_id": 25810
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00471.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25811\\REC_CS_S25811_U19_20231019_1697713342659.mp4",
+    "sentence": "মা কফি খান না।",
+    "gloss": "মা কফি না।",
+    "original_id": 471,
+    "video_id": 25811
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00472.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25812\\REC_CS_S25812_U19_20231019_1697713401203.mp4",
+    "sentence": "দাদা কফি খান না।",
+    "gloss": "দাদা কফি না।",
+    "original_id": 472,
+    "video_id": 25812
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00473.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25813\\REC_CS_S25813_U19_20231019_1697713424133.mp4",
+    "sentence": "দাদী কফি খান না।",
+    "gloss": "দাদি কফি না।",
+    "original_id": 473,
+    "video_id": 25813
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00474.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25814\\REC_CS_S25814_U19_20231019_1697713433051.mp4",
+    "sentence": "চাচা কফি খান না।",
+    "gloss": "চাচা কফি না।",
+    "original_id": 474,
+    "video_id": 25814
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00475.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25815\\REC_CS_S25815_U19_20231019_1697713444998.mp4",
+    "sentence": "চাচী কফি খান না।",
+    "gloss": "চাচা বউ কফি না।",
+    "original_id": 475,
+    "video_id": 25815
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00476.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25816\\REC_CS_S25816_U19_20231019_1697713456507.mp4",
+    "sentence": "খালা কফি খান না।",
+    "gloss": "খালা কফি না।",
+    "original_id": 476,
+    "video_id": 25816
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00477.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25817\\REC_CS_S25817_U19_20231019_1697713467117.mp4",
+    "sentence": "খালু কফি খান না।",
+    "gloss": "খালা জামাই কফি না।",
+    "original_id": 477,
+    "video_id": 25817
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00478.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27935\\REC_CS_S27935_U19_20231104_1699106312748.mp4",
+    "sentence": "বাবা দুপুরে চা খান না।",
+    "gloss": "বাবা দুপুর চা না।",
+    "original_id": 478,
+    "video_id": 27935
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00479.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27936\\REC_CS_S27936_U19_20231104_1699106327060.mp4",
+    "sentence": "বাবা বিকালে চা খান না।",
+    "gloss": "বাবা বিকাল চা  না।",
+    "original_id": 479,
+    "video_id": 27936
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00480.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27937\\REC_CS_S27937_U19_20231104_1699106340711.mp4",
+    "sentence": "বাবা সন্ধ্যায় চা খান না।",
+    "gloss": "বাবা সন্ধ্যা চা না।",
+    "original_id": 480,
+    "video_id": 27937
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00481.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27938\\REC_CS_S27938_U19_20231104_1699106354617.mp4",
+    "sentence": "বাবা রাতে চা খান না।",
+    "gloss": "বাবা রাত চা না।",
+    "original_id": 481,
+    "video_id": 27938
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00482.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27939\\REC_CS_S27939_U19_20231104_1699106368582.mp4",
+    "sentence": "বাবা সকালে চা খায়নি।",
+    "gloss": "বাবা সকাল চা নেই।",
+    "original_id": 482,
+    "video_id": 27939
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00483.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27940\\REC_CS_S27940_U19_20231104_1699106381809.mp4",
+    "sentence": "বাবা দুপুরে চা খায়নি।",
+    "gloss": "বাবা দুপুর চা নেই।",
+    "original_id": 483,
+    "video_id": 27940
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00484.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27942\\REC_CS_S27942_U19_20231104_1699106409857.mp4",
+    "sentence": "বাবা সন্ধ্যায় চা খায়নি।",
+    "gloss": "বাবা সন্ধ্যা চা নেই।",
+    "original_id": 484,
+    "video_id": 27942
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00485.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27943\\REC_CS_S27943_U19_20231104_1699106425581.mp4",
+    "sentence": "বাবা রাতে চা খায়নি।",
+    "gloss": "বাবা রাত চা নেই।",
+    "original_id": 485,
+    "video_id": 27943
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00486.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27945\\REC_CS_S27945_U19_20231104_1699106481766.mp4",
+    "sentence": "বাবা দুপুরে চা খাবে না।",
+    "gloss": "বাবা দুপুর চা না।",
+    "original_id": 486,
+    "video_id": 27945
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00487.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27947\\REC_CS_S27947_U19_20231104_1699106513326.mp4",
+    "sentence": "বাবা সন্ধ্যায় চা খাবে না।",
+    "gloss": "বাবা সন্ধ্যা চা না।",
+    "original_id": 487,
+    "video_id": 27947
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00488.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27948\\REC_CS_S27948_U19_20231104_1699106527167.mp4",
+    "sentence": "বাবা রাতে চা খাবে না।",
+    "gloss": "বাবা রাত চা না।",
+    "original_id": 488,
+    "video_id": 27948
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00489.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27949\\REC_CS_S27949_U19_20231104_1699106579757.mp4",
+    "sentence": "বাবা সকালে চা খেতেন।",
+    "gloss": "বাবা আগে সকাল চা ছিল।",
+    "original_id": 489,
+    "video_id": 27949
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00490.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27950\\REC_CS_S27950_U19_20231104_1699106595463.mp4",
+    "sentence": "বাবা দুপুরে চা খেতেন।",
+    "gloss": "বাবা আগে দুপুর চা ছিল।",
+    "original_id": 490,
+    "video_id": 27950
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00491.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27951\\REC_CS_S27951_U19_20231104_1699106611021.mp4",
+    "sentence": "বাবা বিকালে চা খেতেন।",
+    "gloss": "বাবা আগে বিকাল চা ছিল।",
+    "original_id": 491,
+    "video_id": 27951
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00492.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27952\\REC_CS_S27952_U19_20231104_1699106626903.mp4",
+    "sentence": "বাবা সন্ধ্যায় চা খেতেন।",
+    "gloss": "বাবা আগে সন্ধ্যা চা ছিল।",
+    "original_id": 492,
+    "video_id": 27952
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00493.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27953\\REC_CS_S27953_U19_20231104_1699106640486.mp4",
+    "sentence": "বাবা রাতে চা খেতেন।",
+    "gloss": "বাবা আগে রাত চা ছিল।",
+    "original_id": 493,
+    "video_id": 27953
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00494.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27954\\REC_CS_S27954_U19_20231104_1699106660279.mp4",
+    "sentence": "বাবা সকালে চা খেতেন না।",
+    "gloss": "বাবা আগে সকাল চা না।",
+    "original_id": 494,
+    "video_id": 27954
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00495.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27955\\REC_CS_S27955_U19_20231104_1699106675103.mp4",
+    "sentence": "বাবা দুপুরে চা খেতেন না।",
+    "gloss": "বাবা আগে দুপুর চা না।",
+    "original_id": 495,
+    "video_id": 27955
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00496.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27956\\REC_CS_S27956_U19_20231104_1699106691094.mp4",
+    "sentence": "বাবা বিকালে চা খেতেন না।",
+    "gloss": "বাবা আগে বিকাল চা না।",
+    "original_id": 496,
+    "video_id": 27956
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00497.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\25793\\REC_CS_S25793_U19_20231018_1697642795722.mp4",
+    "sentence": "বাবা সন্ধ্যায় চা খেতেন না।",
+    "gloss": "বাবা আগে সন্ধ্যা চা না।",
+    "original_id": 497,
+    "video_id": 27957
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00498.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27958\\REC_CS_S27958_U19_20231104_1699106721941.mp4",
+    "sentence": "বাবা রাতে চা খেতেন না।",
+    "gloss": "বাবা আগে রাত চা না।",
+    "original_id": 498,
+    "video_id": 27958
+  },
+  {
+    "pose_path": "data\\processed\\pose_sequences_full\\pose_00499.npy",
+    "video_path": "data\\raw\\Ban-Sign-Sent-9K-V1\\Sign_Videos\\27964\\REC_CS_S27964_U19_20231104_1699107323348.mp4",
+    "sentence": "বাবা সকালে চা খেয়েছে।",
+    "gloss": "বাবা সকাল চা হয়েছে।",
+    "original_id": 499,
+    "video_id": 27964
+  }
+]
