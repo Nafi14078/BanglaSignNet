@@ -125,7 +125,7 @@ def test_gloss_dataset():
     print("Testing BanglaSignGlossDataset...")
 
     dataset = BanglaSignGlossDataset(
-        annotations_file="data/annotations/filtered_annotations.csv",
+        annotations_file="data/annotations/dataset_annotations.csv",
         pose_dir="data/processed/pose_sequences_full",
         vocabulary_file="data/annotations/gloss_vocabulary.json",  # Use gloss vocabulary!
         max_gloss_length=8  # Gloss sequences are shorter

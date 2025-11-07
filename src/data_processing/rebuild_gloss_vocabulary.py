@@ -7,7 +7,7 @@ def rebuild_gloss_vocabulary():
     """Rebuild vocabulary using gloss sequences instead of natural sentences"""
 
     # Load annotations
-    annotations_df = pd.read_csv("data/annotations/filtered_annotations.csv")
+    annotations_df = pd.read_csv("data/annotations/dataset_annotations.csv")
 
     # Extract words from GLOSS sequences (not natural sentences)
     all_words = []

@@ -7,7 +7,7 @@ def analyze_gloss_vocabulary():
     """Analyze the gloss vocabulary and data"""
 
     # Load annotations
-    annotations_df = pd.read_csv("data/annotations/filtered_annotations.csv")
+    annotations_df = pd.read_csv("data/annotations/dataset_annotations.csv")
 
     # Load gloss vocabulary
     with open('data/annotations/gloss_vocabulary.json', 'r', encoding='utf-8') as f:
