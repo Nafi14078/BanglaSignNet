@@ -102,8 +102,8 @@ class GlossDecoder(nn.Module):
 
 
 class BanglaSignTransformer(nn.Module):
-    def __init__(self, input_dim=375, vocab_size=41, d_model=512, nhead=8,
-                 num_encoder_layers=4, num_decoder_layers=4, dropout=0.1, max_seq_length=20):
+    def __init__(self, input_dim=375, vocab_size=41, d_model=128, nhead=4,
+                 num_encoder_layers=2, num_decoder_layers=2, dropout=0.2, max_seq_length=8):
         super(BanglaSignTransformer, self).__init__()
 
         self.vocab_size = vocab_size
@@ -190,10 +190,10 @@ def test_model():
     model = BanglaSignTransformer(
         input_dim=input_dim,
         vocab_size=vocab_size,
-        d_model=512,
-        nhead=8,
-        num_encoder_layers=4,
-        num_decoder_layers=4
+        d_model=128,
+        nhead=4,
+        num_encoder_layers=2,
+        num_decoder_layers=2
     )
 
     # Create sample data

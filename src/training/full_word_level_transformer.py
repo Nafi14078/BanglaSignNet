@@ -44,7 +44,7 @@ class FullWordLevelBanglaSignTrainer:
         print(f"Using device: {self.device}")
 
         # Create output directory
-        self.output_dir = Path(config['paths']['models']) / "full_word_level"
+        self.output_dir = Path(config['paths']['models']) / "full_word_level_updated_transformer"
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
     def train_epoch(self):
@@ -276,7 +276,7 @@ class FullWordLevelBanglaSignTrainer:
         }
 
         if best:
-            filename = self.output_dir / "best_full_gloss_model.pth"
+            filename = self.output_dir / "best_full_gloss_model_updated.pth"
         else:
             filename = self.output_dir / f"full_checkpoint_epoch_{self.current_epoch + 1}.pth"
 
