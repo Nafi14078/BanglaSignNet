@@ -24,10 +24,14 @@ class PositionalEncoding(nn.Module):
 
 
 class PoseEncoder(nn.Module):
-    def __init__(self, input_dim=375, d_model=512, nhead=8, num_layers=4, dropout=0.1):
+    def __init__(self, input_dim=375, d_model=128, nhead=4, num_layers=2, dropout=0.2):
         super(PoseEncoder, self).__init__()
 
         self.d_model = d_model
+
+        # Add input normalization (IMPORTANT for pose data)
+        self.input_norm = nn.LayerNorm(input_dim)
+
         self.input_projection = nn.Linear(input_dim, d_model)
         self.pos_encoder = PositionalEncoding(d_model)
         self.dropout = nn.Dropout(dropout)
@@ -35,15 +39,25 @@ class PoseEncoder(nn.Module):
         encoder_layer = nn.TransformerEncoderLayer(
             d_model=d_model,
             nhead=nhead,
-            dim_feedforward=2048,
+            dim_feedforward=d_model * 4,  # More proportional (1024 instead of 2048)
             dropout=dropout,
-            activation='relu',
-            batch_first=False
+            activation='gelu',  # GELU often works better than ReLU
+            batch_first=False,
+            norm_first=True  # Pre-norm for better training stability
         )
-        self.transformer_encoder = nn.TransformerEncoder(encoder_layer, num_layers=num_layers)
+        self.transformer_encoder = nn.TransformerEncoder(
+            encoder_layer,
+            num_layers=num_layers,
+            norm=nn.LayerNorm(d_model)  # Final layer norm
+        )
 
     def forward(self, src):
         # src shape: (seq_len, batch_size, input_dim)
+
+        # Normalize input first
+        src = src.transpose(0, 1)  # (batch, seq, features)
+        src = self.input_norm(src)
+        src = src.transpose(0, 1)  # back to (seq, batch, features)
 
         # Project input to model dimension
         src = self.input_projection(src) * math.sqrt(self.d_model)
@@ -59,7 +73,7 @@ class PoseEncoder(nn.Module):
 
 
 class GlossDecoder(nn.Module):
-    def __init__(self, vocab_size, d_model=512, nhead=8, num_layers=4, dropout=0.1, max_seq_length=20):
+    def __init__(self, vocab_size, d_model=128, nhead=4, num_layers=2, dropout=0.2, max_seq_length=20):
         super(GlossDecoder, self).__init__()
 
         self.d_model = d_model
@@ -70,14 +84,22 @@ class GlossDecoder(nn.Module):
         decoder_layer = nn.TransformerDecoderLayer(
             d_model=d_model,
             nhead=nhead,
-            dim_feedforward=2048,
+            dim_feedforward=d_model * 4,  # More proportional
             dropout=dropout,
-            activation='relu',
-            batch_first=False
+            activation='gelu',  # GELU instead of ReLU
+            batch_first=False,
+            norm_first=True  # Pre-norm
         )
-        self.transformer_decoder = nn.TransformerDecoder(decoder_layer, num_layers=num_layers)
+        self.transformer_decoder = nn.TransformerDecoder(
+            decoder_layer,
+            num_layers=num_layers,
+            norm=nn.LayerNorm(d_model)  # Final layer norm
+        )
 
         self.output_projection = nn.Linear(d_model, vocab_size)
+
+        # WEIGHT TYING: Share weights between embedding and output
+        self.output_projection.weight = self.embedding.weight
 
     def forward(self, tgt, memory, tgt_mask=None, tgt_key_padding_mask=None):
         # tgt shape: (seq_len, batch_size)
@@ -103,7 +125,7 @@ class GlossDecoder(nn.Module):
 
 class BanglaSignTransformer(nn.Module):
     def __init__(self, input_dim=375, vocab_size=41, d_model=128, nhead=4,
-                 num_encoder_layers=2, num_decoder_layers=2, dropout=0.2, max_seq_length=8):
+                 num_encoder_layers=2, num_decoder_layers=2, dropout=0.2, max_seq_length=7):
         super(BanglaSignTransformer, self).__init__()
 
         self.vocab_size = vocab_size
@@ -147,7 +169,7 @@ class BanglaSignTransformer(nn.Module):
         return output
 
     def predict(self, src, sos_token, eos_token, max_length=20):
-        """Generate prediction for a single sequence (greedy decoding)"""
+        """Generate prediction for a single sequence (greedy decoding) - IMPROVED"""
         self.eval()
 
         with torch.no_grad():
@@ -166,57 +188,12 @@ class BanglaSignTransformer(nn.Module):
 
                 # Get next token (greedy)
                 next_token = out[-1, :, :].argmax(dim=-1).unsqueeze(0)
-                ys = torch.cat([ys, next_token], dim=0)
 
                 # Stop if EOS token is generated
                 if next_token.item() == eos_token:
+                    ys = torch.cat([ys, next_token], dim=0)
                     break
 
+                ys = torch.cat([ys, next_token], dim=0)
+
             return ys.squeeze(1)
-
-
-def test_model():
-    """Test the model with sample dimensions"""
-    print("Testing BanglaSignTransformer model...")
-
-    # Model parameters based on our dataset
-    input_dim = 375  # From pose extraction
-    vocab_size = 41  # From our vocabulary
-    batch_size = 2
-    seq_len = 60  # Frames per video
-    tgt_len = 10  # Target sequence length
-
-    # Create model
-    model = BanglaSignTransformer(
-        input_dim=input_dim,
-        vocab_size=vocab_size,
-        d_model=128,
-        nhead=4,
-        num_encoder_layers=2,
-        num_decoder_layers=2
-    )
-
-    # Create sample data
-    src = torch.randn(seq_len, batch_size, input_dim)  # Pose sequences
-    tgt = torch.randint(0, vocab_size, (tgt_len, batch_size))  # Target sequences
-
-    # Forward pass
-    output = model(src, tgt)
-
-    print(f"Input pose sequence shape: {src.shape}")
-    print(f"Target gloss sequence shape: {tgt.shape}")
-    print(f"Output shape: {output.shape}")
-    print(f"Model parameters: {sum(p.numel() for p in model.parameters()):,}")
-
-    # Test prediction
-    sos_token = 37  # From our vocabulary
-    eos_token = 38
-    single_src = torch.randn(seq_len, input_dim)
-    prediction = model.predict(single_src, sos_token, eos_token)
-    print(f"Prediction sequence: {prediction.tolist()}")
-
-    return model
-
-
-if __name__ == "__main__":
-    model = test_model()

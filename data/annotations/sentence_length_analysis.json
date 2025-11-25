@@ -1,0 +1,28 @@
+{
+  "natural_sentences": {
+    "total": 1922,
+    "average_length": 4.366805411030177,
+    "min_length": 2,
+    "max_length": 5,
+    "length_distribution": {
+      "2": 2,
+      "5": 712,
+      "4": 1205,
+      "3": 3
+    }
+  },
+  "gloss_sequences": {
+    "total": 1922,
+    "average_length": 5.182622268470343,
+    "min_length": 2,
+    "max_length": 7,
+    "length_distribution": {
+      "2": 1,
+      "4": 386,
+      "5": 847,
+      "6": 568,
+      "7": 103,
+      "3": 17
+    }
+  }
+}

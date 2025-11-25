@@ -1,0 +1,19 @@
+{
+  "use_augmented_data": true,
+  "annotations_file": "data/annotations/dataset_annotations_augmented.csv",
+  "pose_dir": "data/processed/pose_sequences_augmented",
+  "total_samples": 2607,
+  "original_samples": 1922,
+  "augmented_samples": 685,
+  "verb_weight": 3.0,
+  "augmentation_info": {
+    "target_verbs": [
+      "হবে",
+      "ছিল",
+      "না",
+      "নেই"
+    ],
+    "substitution_rules": 10,
+    "temporal_jitter_std": 0.01
+  }
+}

@@ -22,7 +22,7 @@ class FullWordLevelBanglaSignTrainer:
         self.optimizer = optim.AdamW(
             model.parameters(),
             lr=config['training']['learning_rate'],
-            weight_decay=0.01
+            weight_decay=0.05
         )
 
         # Learning rate scheduler
@@ -44,7 +44,7 @@ class FullWordLevelBanglaSignTrainer:
         print(f"Using device: {self.device}")
 
         # Create output directory
-        self.output_dir = Path(config['paths']['models']) / "full_word_level_updated_transformer"
+        self.output_dir = Path(config['paths']['models']) / "full_word_level_old_updated_1"
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
     def train_epoch(self):
@@ -276,7 +276,7 @@ class FullWordLevelBanglaSignTrainer:
         }
 
         if best:
-            filename = self.output_dir / "best_full_gloss_model_updated.pth"
+            filename = self.output_dir / "best_full_gloss_model_old_updated_1.pth"
         else:
             filename = self.output_dir / f"full_checkpoint_epoch_{self.current_epoch + 1}.pth"
 
@@ -322,7 +322,7 @@ def main():
 
     # Update config for full dataset training
     config['training']['batch_size'] = 32  # Larger batch size for more data
-    config['training']['learning_rate'] = 0.0001
+    config['training']['learning_rate'] = 0.00008
     config['training']['epochs'] = 80
 
     # Load GLOSS vocabulary
@@ -351,11 +351,11 @@ def main():
     model = BanglaSignTransformer(
         input_dim=375,
         vocab_size=len(vocabulary['word_to_idx']),
-        d_model=128,
-        nhead=4,
-        num_encoder_layers=2,
-        num_decoder_layers=2,
-        dropout=0.2,
+        d_model=256,
+        nhead=8,
+        num_encoder_layers=4,
+        num_decoder_layers=4,
+        dropout=0.3,
         max_seq_length=8  # Matches our gloss sequence length
     )
 
