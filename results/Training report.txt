@@ -1708,6 +1708,128 @@ FINAL RESULTS
    challenging by the model.
 
 
+   ======================================================================
+FIXED COMPREHENSIVE MODEL EVALUATION
+======================================================================
+
+❓ Is this a context-only model (without verb)?
+   If unsure, check model filename for 'context' keyword
+   Enter 'yes' for context-only, 'no' for full model, or 'auto' to detect: yes
+
+📂 Loading vocabulary...
+✅ Vocabulary: 39 words
+
+📂 Loading dataset...
+⚠️  Could not load context-only dataset: cannot import name 'ContextOnlyDataset' from 'src.training.Enhanced_context_trainer' (D:\BanglaSignNet\src\training\Enhanced_context_trainer.py)
+   Falling back to regular dataset
+Gloss dataset initialized with 1922 samples
+Gloss vocabulary size: 39
+Max gloss length: 8
+Vocabulary coverage: 100.00% (9961/9961 words)
+
+📂 Loading model from: models/enhanced_context_model/best_enhanced_model.pth
+   ⚙️  Forced model type: Context-Only
+✅ Model loaded from epoch 77
+   Model type: Context-Only
+   Validation samples: 300
+
+======================================================================
+EVALUATING ON 300 SAMPLES
+Model Type: Context-Only (no verb)
+======================================================================
+Evaluating: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 300/300 [00:03<00:00, 77.27it/s]
+
+======================================================================
+SAMPLE PREDICTIONS (First 10)
+======================================================================
+
+❌ Sample 0:
+   Target:    'ফল'
+   Predicted: 'দাদা রাত শাক-সব্জী খাওয়ায়া'
+
+✅ Sample 1:
+   Target:    'বাবা সকাল চা'
+   Predicted: 'বাবা সকাল চা'
+
+❌ Sample 2:
+   Target:    'বাবা বিকাল চা'
+   Predicted: 'বাবা সন্ধ্যা চা'
+
+❌ Sample 3:
+   Target:    'বাবা বিকাল চা'
+   Predicted: 'বাবা সন্ধ্যা চা'
+
+✅ Sample 4:
+   Target:    'বাবা সকাল চা'
+   Predicted: 'বাবা সকাল চা'
+
+✅ Sample 5:
+   Target:    'বাবা দুপুর চা'
+   Predicted: 'বাবা দুপুর চা'
+
+✅ Sample 6:
+   Target:    'বাবা বিকাল চা'
+   Predicted: 'বাবা বিকাল চা'
+
+✅ Sample 7:
+   Target:    'বাবা সন্ধ্যা চা'
+   Predicted: 'বাবা সন্ধ্যা চা'
+
+✅ Sample 8:
+   Target:    'বাবা রাত চা'
+   Predicted: 'বাবা রাত চা'
+
+✅ Sample 9:
+   Target:    'মা সকাল চা'
+   Predicted: 'মা সকাল চা'
+
+📊 Quick Stats:
+   Correct: 155/300
+   Accuracy: 51.67%
+
+======================================================================
+CALCULATING ALL METRICS
+======================================================================
+
+📊 Sequence-Level Metrics:
+   Exact Match Accuracy: 51.67% (155/300)
+
+📊 Token-Level Metrics:
+   Token Accuracy: 79.40%
+   Balanced Accuracy: 70.48%
+
+   Weighted Average:
+      Precision: 83.40%
+      Recall:    79.40%
+      F1-Score:  80.35%
+
+   Macro Average:
+      Precision: 70.03%
+      Recall:    70.48%
+      F1-Score:  68.85%
+
+📍 Position-wise Accuracy:
+   Position 0: 91.33% (274/300)
+   Position 1: 83.61% (250/299)
+   Position 2: 61.54% (184/299)
+   Position 3: 81.03% (158/195)
+   Position 4: 83.72% (36/43)
+
+📏 Accuracy by Sequence Length:
+   1-word: 0.00% (0/1)
+   3-word: 82.22% (74/90)
+   4-word: 52.14% (73/140)
+   5-word: 11.59% (8/69)
+
+📊 Generating confusion matrix (top 20 tokens)...
+   💾 Saved: results/comprehensive/confusion_matrix.png
+
+📊 Generating ROC curves (top 10 tokens)...
+   💾 Saved: results/comprehensive/roc_curves.png
+
+
+
+
 
 
 

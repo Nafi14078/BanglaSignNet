@@ -39,16 +39,16 @@ class PoseEncoder(nn.Module):
         encoder_layer = nn.TransformerEncoderLayer(
             d_model=d_model,
             nhead=nhead,
-            dim_feedforward=d_model * 4,  # More proportional (1024 instead of 2048)
+            dim_feedforward=d_model * 4,
             dropout=dropout,
-            activation='gelu',  # GELU often works better than ReLU
+            activation='gelu',
             batch_first=False,
-            norm_first=True  # Pre-norm for better training stability
+            norm_first=True
         )
         self.transformer_encoder = nn.TransformerEncoder(
             encoder_layer,
             num_layers=num_layers,
-            norm=nn.LayerNorm(d_model)  # Final layer norm
+            norm=nn.LayerNorm(d_model)
         )
 
     def forward(self, src):
@@ -84,16 +84,16 @@ class GlossDecoder(nn.Module):
         decoder_layer = nn.TransformerDecoderLayer(
             d_model=d_model,
             nhead=nhead,
-            dim_feedforward=d_model * 4,  # More proportional
+            dim_feedforward=d_model * 4,
             dropout=dropout,
-            activation='gelu',  # GELU instead of ReLU
+            activation='gelu',
             batch_first=False,
-            norm_first=True  # Pre-norm
+            norm_first=True
         )
         self.transformer_decoder = nn.TransformerDecoder(
             decoder_layer,
             num_layers=num_layers,
-            norm=nn.LayerNorm(d_model)  # Final layer norm
+            norm=nn.LayerNorm(d_model)
         )
 
         self.output_projection = nn.Linear(d_model, vocab_size)
@@ -169,7 +169,7 @@ class BanglaSignTransformer(nn.Module):
         return output
 
     def predict(self, src, sos_token, eos_token, max_length=20):
-        """Generate prediction for a single sequence (greedy decoding) - IMPROVED"""
+        """Generate prediction for a single sequence (greedy decoding)"""
         self.eval()
 
         with torch.no_grad():
@@ -197,3 +197,104 @@ class BanglaSignTransformer(nn.Module):
                 ys = torch.cat([ys, next_token], dim=0)
 
             return ys.squeeze(1)
+
+    def beam_search(self, src, sos_token, eos_token, beam_width=5, max_length=20, length_penalty=0.6):
+        """
+        🆕 Beam Search Decoding - More accurate than greedy!
+
+        Args:
+            src: source pose sequence (seq_len, input_dim)
+            sos_token: start of sequence token ID
+            eos_token: end of sequence token ID
+            beam_width: number of beams to keep (default=5)
+            max_length: maximum sequence length
+            length_penalty: penalty for longer sequences (default=0.6)
+
+        Returns:
+            best_sequence: most likely token sequence
+        """
+        self.eval()
+
+        with torch.no_grad():
+            # Encode source once
+            memory = self.encoder(src.unsqueeze(1))  # (seq_len, 1, d_model)
+
+            # Initialize beams: [(sequence, score)]
+            beams = [(torch.LongTensor([[sos_token]]).to(src.device), 0.0)]
+
+            for step in range(max_length - 1):
+                all_candidates = []
+
+                for seq, score in beams:
+                    # Skip if this beam already ended
+                    if seq[0, -1].item() == eos_token:
+                        all_candidates.append((seq, score))
+                        continue
+
+                    # Generate mask
+                    seq_len = seq.size(1)
+                    tgt_mask = self.generate_square_subsequent_mask(seq_len).to(src.device)
+
+                    # Decode
+                    seq_transposed = seq.transpose(0, 1)  # (seq_len, 1)
+                    out = self.decoder(seq_transposed, memory, tgt_mask=tgt_mask)
+
+                    # Get log probabilities for next token
+                    log_probs = F.log_softmax(out[-1, 0, :], dim=-1)
+
+                    # Get top k candidates
+                    top_log_probs, top_indices = torch.topk(log_probs, beam_width)
+
+                    # Create new candidates
+                    for log_prob, idx in zip(top_log_probs, top_indices):
+                        new_seq = torch.cat([seq, idx.unsqueeze(0).unsqueeze(0)], dim=1)
+                        new_score = score + log_prob.item()
+                        all_candidates.append((new_seq, new_score))
+
+                # Select top beam_width candidates
+                # Apply length penalty: score / (length ** length_penalty)
+                ordered = sorted(all_candidates,
+                               key=lambda x: x[1] / (x[0].size(1) ** length_penalty),
+                               reverse=True)
+                beams = ordered[:beam_width]
+
+                # Check if all beams ended
+                if all(seq[0, -1].item() == eos_token for seq, _ in beams):
+                    break
+
+            # Return best sequence
+            best_seq, best_score = beams[0]
+            return best_seq.squeeze(0)
+
+
+def test_beam_search():
+    """Test beam search implementation"""
+    print("Testing Beam Search...")
+
+    model = BanglaSignTransformer(
+        input_dim=375,
+        vocab_size=41,
+        d_model=128,
+        nhead=4,
+        num_encoder_layers=2,
+        num_decoder_layers=2
+    )
+
+    # Create dummy input
+    src = torch.randn(60, 375)  # 60 frames, 375 features
+    sos_token = 37
+    eos_token = 38
+
+    # Test greedy decoding
+    greedy_output = model.predict(src, sos_token, eos_token)
+    print(f"Greedy output: {greedy_output.tolist()}")
+
+    # Test beam search
+    beam_output = model.beam_search(src, sos_token, eos_token, beam_width=5)
+    print(f"Beam search output: {beam_output.tolist()}")
+
+    print("✅ Beam search working!")
+
+
+if __name__ == "__main__":
+    test_beam_search()

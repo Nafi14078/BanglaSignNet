@@ -39,7 +39,7 @@ Path('results/comprehensive').mkdir(parents=True, exist_ok=True)
 class ComprehensiveEvaluator:
     """Complete evaluation with all metrics and visualizations"""
 
-    def __init__(self, model_path, dataset, vocabulary, device='cpu'):
+    def __init__(self, model_path, dataset, vocabulary, device='cpu', force_context_only=True):
         self.model_path = model_path
         self.dataset = dataset
         self.vocabulary = vocabulary
@@ -50,7 +50,9 @@ class ComprehensiveEvaluator:
         checkpoint = torch.load(model_path, map_location=self.device, weights_only=False)
 
         # Determine model type
-        self.is_context_only = checkpoint.get('training_type') == 'context_only'
+        # Determine model type - FORCE context-only for enhanced model
+        self.is_context_only = True  # Force context-only mode
+        # self.is_context_only = checkpoint.get('training_type') == 'context_only'
 
         # Create model
         self.model = BanglaSignTransformer(
@@ -553,7 +555,7 @@ def main():
     print("=" * 70)
 
     # Configuration
-    MODEL_PATH = 'models/updated_context_only_model/checkpoint_epoch_80.pth'
+    MODEL_PATH = 'models/enhanced_context_model/best_enhanced_model.pth'
     VOCAB_PATH = 'data/annotations/gloss_vocabulary.json'
     ANNOTATIONS_PATH = 'data/annotations/dataset_annotations.csv'
     POSE_DIR = 'data/processed/pose_sequences_full'
@@ -565,26 +567,46 @@ def main():
     print(f"✅ Vocabulary: {len(vocabulary['word_to_idx'])} words")
 
     # Load dataset
-    print("\n📂 Loading dataset...")
+    print("\n📂 Creating context-only dataset for evaluation...")
 
-    # Try to load context-only dataset first
-    try:
-        from src.training.train_context_only import ContextOnlyDataset
-        dataset = ContextOnlyDataset(
-            annotations_file=ANNOTATIONS_PATH,
-            pose_dir=POSE_DIR,
-            vocabulary_file=VOCAB_PATH
-        )
-        print(f"✅ Context-only dataset: {len(dataset)} samples")
-    except:
-        # Fallback to regular dataset
-        from src.data_processing.gloss_dataset import BanglaSignGlossDataset
-        dataset = BanglaSignGlossDataset(
-            annotations_file=ANNOTATIONS_PATH,
-            pose_dir=POSE_DIR,
-            vocabulary_file=VOCAB_PATH
-        )
-        print(f"✅ Regular dataset: {len(dataset)} samples")
+    # Create a simple context-only dataset wrapper
+    class ContextOnlyDatasetWrapper:
+        """Wrapper to add context_sequence to regular dataset"""
+
+        def __init__(self, base_dataset):
+            self.base_dataset = base_dataset
+
+        def __len__(self):
+            return len(self.base_dataset)
+
+        def __getitem__(self, idx):
+            sample = self.base_dataset[idx]
+
+            # Extract context (all words except last/verb)
+            full_gloss = sample['gloss_sequence']
+            words = full_gloss.split()
+            context_words = words[:-1] if len(words) > 1 else []
+            context_sequence = ' '.join(context_words)
+
+            # Add context_sequence to sample
+            sample['context_sequence'] = context_sequence
+
+            return sample
+
+        def indices_to_gloss(self, indices):
+            return self.base_dataset.indices_to_gloss(indices)
+
+    # Load base dataset
+    from src.data_processing.gloss_dataset import BanglaSignGlossDataset
+    base_dataset = BanglaSignGlossDataset(
+        annotations_file=ANNOTATIONS_PATH,
+        pose_dir=POSE_DIR,
+        vocabulary_file=VOCAB_PATH
+    )
+
+    # Wrap it to add context_sequence
+    dataset = ContextOnlyDatasetWrapper(base_dataset)
+    print(f"✅ Context-only wrapper dataset: {len(dataset)} samples")
 
     # Create evaluator
     evaluator = ComprehensiveEvaluator(MODEL_PATH, dataset, vocabulary)
